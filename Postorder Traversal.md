@@ -3,15 +3,14 @@
 > - Postorder Traversal using 2 stacks
 > - Postorder Traversal using 1 stack
 
-##### Preorder Traversal
+##### Postorder Traversal
 Traversal where we access root node, left child and then right child node
 
 $$
 left\ child \rightarrow right\ child  \rightarrow root
 $$
 
-###### Preorder Traversal Recursive
----
+###### Postorder Traversal Recursive
 ```python
 def postorder(node):
     if node is None:
@@ -21,8 +20,7 @@ def postorder(node):
     print(node.val)
 ```
 
-###### Preorder Traversal using 2 Stacks
----
+###### Postorder Traversal using 2 Stacks
 ```python
 def postorder():
     stack = [tree]
@@ -39,8 +37,7 @@ def postorder():
         print(node.val)
 ```
 
-###### Preorder Traversal using 1 Stack
----
+###### Postorder Traversal using 1 Stack
 ```python
 def postorder():
     currNode = tree

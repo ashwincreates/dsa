@@ -10,7 +10,6 @@ root \rightarrow left\ child \rightarrow right\ child
 $$
 
 ###### Preorder Recursive Approach
----
 ```python
 def preorder(node):
     if node is None:
@@ -21,7 +20,6 @@ def preorder(node):
 ```
 
 ###### Preorder Iterative Approach
----
 ```python
 def preorder():
     stack = [root]

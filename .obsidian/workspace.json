@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Introduction to Trees.md",
+                "file": "Check for Children Sum Property.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#todo🖋️",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Introduction to Trees.md",
+                "file": "Check for Children Sum Property.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Introduction to Trees.md",
+                "file": "Check for Children Sum Property.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Introduction to Trees.md"
+                "file": "Check for Children Sum Property.md"
               }
             }
           }
@@ -148,14 +148,26 @@
   },
   "active": "dec9a05d8932c20e",
   "lastOpenFiles": [
-    "Untitled.canvas",
     "Trees 🎄.md",
-    "Index.md",
-    "Postorder Traversal.md",
-    "Preorder Traversal.md",
+    "Check for Children Sum Property.md",
     "Inorder Traversal.md",
-    "Introduction to Trees.md",
+    "Postorder, Preorder, Inorder traversal in one Traversal.md",
+    "Maximum Width of a Binary Tree.md",
+    "Postorder Traversal.md",
+    "Level Order Traversal.md",
     "Binary Tree Representation.md",
+    "LCA in Binary Tree.md",
+    "Preorder Traversal.md",
+    "Root to Node Path in Binary Tree.md",
+    "Symmetric Binary Tree.md",
+    "Check if two trees are identical.md",
+    "Views of Binary Tree.md",
+    "Introduction to Trees.md",
+    "Maximum Path Sum.md",
+    "Height and Diameter of a Binary Tree.md",
+    "Top, Bottom, Right",
+    "Index.md",
+    "Untitled.canvas",
     "2024-03-10.md"
   ]
 }

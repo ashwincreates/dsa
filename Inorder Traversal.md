@@ -10,7 +10,6 @@ $$
 $$
 
 ###### Inorder Traversal Recursive
----
 ```python
 def inorder():
     if node is None:
@@ -20,7 +19,6 @@ def inorder():
     inorder(node.right)
 ```
 ###### Inorder Traversal Iterative
----
 ```python
 def inorder():
     currNode = tree
@@ -33,7 +31,7 @@ def inorder():
             parent = stack.pop()
             rightNode = parent.right
             print(parent.val)
-
+            
             if rightNode is None:
 	            if len(stack) != 0:
 		            parent = stack.pop()
@@ -42,3 +40,4 @@ def inorder():
             else:
 	            currNode = rightNode
 ```
+
