@@ -20,19 +20,19 @@
 | [[Views of Binary Tree]]                 | #done✅ |
 | [[Symmetric Binary Tree]]                | #done✅ |
 ###### Hard Problems
-| Topics                                      | Status   |
-| ------------------------------------------- | -------- |
-| [[Root to Node Path in Binary Tree]]        | #done✅   |
-| [[LCA in Binary Tree]]                      | #done✅   |
-| [[Maximum Width of a Binary Tree]]          | #done✅   |
-| [[Check for Children Sum Property]]         | #todo🖋️ |
-| Print all Nodes at a distance of K          | #todo🖋️ |
-| Minimum Time Taken to Burn the Binary Tree  | #todo🖋️ |
-| Count Total Nodes in a Complete Binary Tree | #todo🖋️ |
-| Construct Binary Tree from traversals       | #todo🖋️ |
-| Serialize and Deserialize Binary Tree       | #todo🖋️ |
-| Morris Traversal                            | #todo🖋️ |
-| Flatten Binary Tree to Linked List          | #todo🖋️ |
+| Topics                                         | Status   |
+| ---------------------------------------------- | -------- |
+| [[Root to Node Path in Binary Tree]]           | #done✅   |
+| [[LCA in Binary Tree]]                         | #done✅   |
+| [[Maximum Width of a Binary Tree]]             | #done✅   |
+| [[Check for Children Sum Property]]            | #todo🖋️ |
+| [[Print all Nodes at a distance of K]]         | #todo🖋️ |
+| [[Minimum Time Taken to Burn the Binary Tree]] | #todo🖋️ |
+| Count Total Nodes in a Complete Binary Tree    | #todo🖋️ |
+| Construct Binary Tree from traversals          | #todo🖋️ |
+| Serialize and Deserialize Binary Tree          | #todo🖋️ |
+| Morris Traversal                               | #todo🖋️ |
+| Flatten Binary Tree to Linked List             | #todo🖋️ |
 #### Binary Search Trees
 ---
 ##### Concept

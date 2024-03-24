@@ -16,10 +16,10 @@ def maxWidth(node):
                 left_most = curr_index
             if i == size - 1:
                 right_most = curr_index
-            if temp.left_most is not None:
-                queue.append((temp.left_most, curr_index * 2 + 1))
-            if temp.right_most is not None:
-                queue.append((temp.right_most , curr_index * 2 + 2))
+            if temp.left is not None:
+                queue.append((temp.left, curr_index * 2 + 1))
+            if temp.right is not None:
+                queue.append((temp.right , curr_index * 2 + 2))
         width = max(width, right_most - left_most + 1)
     print(width)
 ```

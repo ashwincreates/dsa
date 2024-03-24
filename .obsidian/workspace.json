@@ -4,18 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "16eaebbe108d9272",
+        "id": "3ea923be32a28cda",
         "type": "tabs",
         "children": [
           {
-            "id": "dec9a05d8932c20e",
+            "id": "ee8b381574c702d2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Check for Children Sum Property.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Drawing 2024-03-24 19.37.27.excalidraw.md"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Check for Children Sum Property.md",
+                "file": "Excalidraw/Drawing 2024-03-24 19.37.27.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Check for Children Sum Property.md",
+                "file": "Excalidraw/Drawing 2024-03-24 19.37.27.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Check for Children Sum Property.md"
+                "file": "Excalidraw/Drawing 2024-03-24 19.37.27.excalidraw.md"
               }
             }
           }
@@ -143,22 +141,34 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "dec9a05d8932c20e",
+  "active": "ee8b381574c702d2",
   "lastOpenFiles": [
     "Trees 🎄.md",
+    "Excalidraw/Drawing 2024-03-24 19.37.27.excalidraw.md",
+    "Print all Nodes at a distance of K.md",
+    "Minimum Time Taken to Burn the Binary Tree.md",
+    "Pasted Image 20240324203813_885.png",
+    "Pasted Image 20240324200802_039.png",
+    "Excalidraw",
+    "Excalidraw/Drawing 2024-03-24 16.53.06.excalidraw.md",
     "Check for Children Sum Property.md",
+    "Maximum Width of a Binary Tree.md",
+    "LCA in Binary Tree.md",
+    "Root to Node Path in Binary Tree.md",
+    "src/pages/index.astro",
+    "src/pages",
+    "src",
+    "package.json",
     "Inorder Traversal.md",
     "Postorder, Preorder, Inorder traversal in one Traversal.md",
-    "Maximum Width of a Binary Tree.md",
     "Postorder Traversal.md",
     "Level Order Traversal.md",
     "Binary Tree Representation.md",
-    "LCA in Binary Tree.md",
     "Preorder Traversal.md",
-    "Root to Node Path in Binary Tree.md",
     "Symmetric Binary Tree.md",
     "Check if two trees are identical.md",
     "Views of Binary Tree.md",
