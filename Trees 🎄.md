@@ -10,7 +10,7 @@
 | [[Postorder Traversal]]                                     | #done✅  |
 | [[Inorder Traversal]]                                       | #done✅  |
 | [[Level Order Traversal]]                                   | #done✅  |
-| [[Postorder, Preorder, Inorder traversal in one Traversal]] | #done✅  |
+| [[Postorder Preorder Inorder traversal in one Traversal]] | #done✅  |
 ###### Medium Problems
 | Topics                                   | Status |
 | ---------------------------------------- | ------ |
