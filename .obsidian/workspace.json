@@ -8,12 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ee8b381574c702d2",
+            "id": "ea2a6c7a10d27abe",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2024-03-24 19.37.27.excalidraw.md"
+                "file": "Construct Binary Tree from traversals.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -67,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "da45610ff444d758",
@@ -83,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-03-24 19.37.27.excalidraw.md",
+                "file": "Construct Binary Tree from traversals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-03-24 19.37.27.excalidraw.md",
+                "file": "Construct Binary Tree from traversals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-03-24 19.37.27.excalidraw.md"
+                "file": "Construct Binary Tree from traversals.md"
               }
             }
           }
@@ -145,19 +148,26 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1bb0ad2b00f943d5",
+  "active": "ea2a6c7a10d27abe",
   "lastOpenFiles": [
-    "Trees 🎄.md",
-    "Excalidraw/Drawing 2024-03-24 19.37.27.excalidraw.md",
-    "Print all Nodes at a distance of K.md",
-    "Minimum Time Taken to Burn the Binary Tree.md",
-    "Pasted Image 20240324203813_885.png",
+    "Trees.md",
+    "Construct Binary Tree from traversals.md",
+    "Count Total Nodes in a Complete Binary Tree.md",
     "Pasted Image 20240324200802_039.png",
+    "Minimum Time Taken to Burn the Binary Tree.md",
+    "Print all Nodes at a distance of K.md",
+    "Excalidraw/Drawing 2024-03-25 22.07.57.excalidraw.md",
+    "Excalidraw/Drawing 2024-03-24 19.37.27.excalidraw.md",
+    "Pasted Image 20240325210457_805.png",
+    "Pasted Image 20240325205430_822.png",
+    "Pasted Image 20240325200029_142.png",
+    "Preorder Traversal.md",
+    "LCA in Binary Tree.md",
+    "Pasted Image 20240324203813_885.png",
     "Excalidraw",
     "Excalidraw/Drawing 2024-03-24 16.53.06.excalidraw.md",
     "Check for Children Sum Property.md",
     "Maximum Width of a Binary Tree.md",
-    "LCA in Binary Tree.md",
     "Root to Node Path in Binary Tree.md",
     "src/pages/index.astro",
     "src/pages",
@@ -168,7 +178,6 @@
     "Postorder Traversal.md",
     "Level Order Traversal.md",
     "Binary Tree Representation.md",
-    "Preorder Traversal.md",
     "Symmetric Binary Tree.md",
     "Check if two trees are identical.md",
     "Views of Binary Tree.md",

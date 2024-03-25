@@ -1,1 +1,1 @@
-Variant of print at K
+> [!warning] Variant of print at K

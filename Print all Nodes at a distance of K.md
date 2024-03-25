@@ -1,17 +1,5 @@
-```python
-from Trees import Node
-tree = Node(7, 
-            Node(1, 
-                 Node(2, 
-                      Node(3), 
-                      Node(4, Node(12))
-                      )
-                 ), 
-            Node(5, 
-                 Node(6, Node(8))
-                 )
-            )
 
+```python
 def print_at_k(root, target, k):
     parent_map = {}
 
