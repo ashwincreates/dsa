@@ -30,8 +30,8 @@
 | [[Minimum Time Taken to Burn the Binary Tree]]  | #done✅   |
 | [[Count Total Nodes in a Complete Binary Tree]] | #todo🖋️ |
 | [[Construct Binary Tree from traversals]]       | #todo🖋️ |
-| Serialize and Deserialize Binary Tree           | #todo🖋️ |
-| Morris Traversal                                | #todo🖋️ |
+| [[Serialize and Deserialize Binary Tree]]       | #todo🖋️ |
+| [[Morris Traversal]]                            | #todo🖋️ |
 | Flatten Binary Tree to Linked List              | #todo🖋️ |
 #### Binary Search Trees
 ---
