@@ -28,9 +28,9 @@
 | [[Check for Children Sum Property]]             | #done✅   |
 | [[Print all Nodes at a distance of K]]          | #done✅   |
 | [[Minimum Time Taken to Burn the Binary Tree]]  | #done✅   |
-| [[Count Total Nodes in a Complete Binary Tree]] | #todo🖋️ |
-| [[Construct Binary Tree from traversals]]       | #todo🖋️ |
-| [[Serialize and Deserialize Binary Tree]]       | #todo🖋️ |
+| [[Count Total Nodes in a Complete Binary Tree]] | #done✅   |
+| [[Construct Binary Tree from traversals]]       | #done✅   |
+| [[Serialize and Deserialize Binary Tree]]       | #done✅   |
 | [[Morris Traversal]]                            | #todo🖋️ |
 | Flatten Binary Tree to Linked List              | #todo🖋️ |
 #### Binary Search Trees

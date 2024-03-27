@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Serialize and Deserialize Binary Tree.md",
+                "file": "Trees.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Serialize and Deserialize Binary Tree.md",
+                "file": "Trees.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Serialize and Deserialize Binary Tree.md",
+                "file": "Trees.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Serialize and Deserialize Binary Tree.md"
+                "file": "Trees.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "c23dd03f0819f723",
   "lastOpenFiles": [
-    "Trees.md",
     "Serialize and Deserialize Binary Tree.md",
+    "Trees.md",
     "Construct Binary Tree from traversals.md",
     "Count Total Nodes in a Complete Binary Tree.md",
     "Pasted Image 20240324200802_039.png",
