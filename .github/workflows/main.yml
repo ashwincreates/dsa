@@ -1,0 +1,9 @@
+on:
+  push:
+    branches: master
+jobs:
+  deploy_webhook:
+    runs-on: 'ubuntu-latest'
+    steps:
+      - name: Trigger webhook
+        run: curl -X POST 'https://api.cloudflare.com/client/v4/pages/webhooks/deploy_hooks/f90cf8a7-5d65-49f0-b2c4-6c9850220924' 
