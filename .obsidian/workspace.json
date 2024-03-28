@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Trees.md",
+                "file": "Morris Traversal.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Trees.md",
+                "file": "Morris Traversal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Trees.md",
+                "file": "Morris Traversal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Trees.md"
+                "file": "Morris Traversal.md"
               }
             }
           }
@@ -148,8 +148,10 @@
   },
   "active": "c23dd03f0819f723",
   "lastOpenFiles": [
-    "Serialize and Deserialize Binary Tree.md",
+    "Pasted image 20240328141648.png",
     "Trees.md",
+    "Morris Traversal.md",
+    "Serialize and Deserialize Binary Tree.md",
     "Construct Binary Tree from traversals.md",
     "Count Total Nodes in a Complete Binary Tree.md",
     "Pasted Image 20240324200802_039.png",
@@ -182,9 +184,7 @@
     "Views of Binary Tree.md",
     "Introduction to Trees.md",
     "Maximum Path Sum.md",
-    "Height and Diameter of a Binary Tree.md",
     "Top, Bottom, Right",
-    "Index.md",
     "Untitled.canvas"
   ]
 }
