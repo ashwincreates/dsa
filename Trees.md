@@ -20,27 +20,27 @@
 | [[Views of Binary Tree]]                 | #done✅ |
 | [[Symmetric Binary Tree]]                | #done✅ |
 ###### Hard Problems
-| Topics                                          | Status   |
-| ----------------------------------------------- | -------- |
-| [[Root to Node Path in Binary Tree]]            | #done✅   |
-| [[LCA in Binary Tree]]                          | #done✅   |
-| [[Maximum Width of a Binary Tree]]              | #done✅   |
-| [[Check for Children Sum Property]]             | #done✅   |
-| [[Print all Nodes at a distance of K]]          | #done✅   |
-| [[Minimum Time Taken to Burn the Binary Tree]]  | #done✅   |
-| [[Count Total Nodes in a Complete Binary Tree]] | #done✅   |
-| [[Construct Binary Tree from traversals]]       | #done✅   |
-| [[Serialize and Deserialize Binary Tree]]       | #done✅   |
-| [[Morris Traversal]]                            | #todo🖋️ |
-| Flatten Binary Tree to Linked List              | #todo🖋️ |
+| Topics                                          | Status  |
+| ----------------------------------------------- | ------- |
+| [[Root to Node Path in Binary Tree]]            | #done✅  |
+| [[LCA in Binary Tree]]                          | #done✅  |
+| [[Maximum Width of a Binary Tree]]              | #done✅  |
+| [[Check for Children Sum Property]]             | #done✅  |
+| [[Print all Nodes at a distance of K]]          | #done✅  |
+| [[Minimum Time Taken to Burn the Binary Tree]]  | #done✅  |
+| [[Count Total Nodes in a Complete Binary Tree]] | #done✅  |
+| [[Construct Binary Tree from traversals]]       | #done✅  |
+| [[Serialize and Deserialize Binary Tree]]       | #done✅  |
+| [[Morris Traversal]]                            | #done✅  |
+| [[Flatten Binary Tree to Linked List]]          | #done✅  |
 #### Binary Search Trees
 ---
 ##### Concept
-| Topic                               | Status   |
-| ----------------------------------- | -------- |
-| Introduction to Binary Search Trees | #todo🖋️ |
-| Search in a Binary Search Tree      | #todo🖋️ |
-| Find Min/Max in BST                 | #todo🖋️ |
+| Topic                                   | Status  |
+| --------------------------------------- | ------- |
+| [[Introduction to Binary Search Trees]] | #note📃 |
+| [[Search in a Binary Search Tree]]      | #done✅  |
+| [[Find Min and Max in a BST]]           | #done✅  |
 ##### Problems
 | Topic                                 | Status   |
 | ------------------------------------- | -------- |

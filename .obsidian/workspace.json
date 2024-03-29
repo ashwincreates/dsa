@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Morris Traversal.md",
+                "file": "Trees.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Morris Traversal.md",
+                "file": "Trees.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Morris Traversal.md",
+                "file": "Trees.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Morris Traversal.md"
+                "file": "Trees.md"
               }
             }
           }
@@ -148,9 +148,15 @@
   },
   "active": "c23dd03f0819f723",
   "lastOpenFiles": [
-    "Pasted image 20240328141648.png",
+    "Find Min and Max in a BST.md",
     "Trees.md",
+    "Find Min/Max in BST.md",
+    "Find Min",
+    "Introduction to Binary Search Trees.md",
     "Morris Traversal.md",
+    "Flatten Binary Tree to Linked List.md",
+    "Search in a Binary Search Tree.md",
+    "Pasted image 20240328141648.png",
     "Serialize and Deserialize Binary Tree.md",
     "Construct Binary Tree from traversals.md",
     "Count Total Nodes in a Complete Binary Tree.md",
@@ -180,10 +186,6 @@
     "Level Order Traversal.md",
     "Binary Tree Representation.md",
     "Symmetric Binary Tree.md",
-    "Check if two trees are identical.md",
-    "Views of Binary Tree.md",
-    "Introduction to Trees.md",
-    "Maximum Path Sum.md",
     "Top, Bottom, Right",
     "Untitled.canvas"
   ]
