@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Trees.md",
+                "file": "Flatten Binary Tree to Linked List.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Trees.md",
+                "file": "Flatten Binary Tree to Linked List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Trees.md",
+                "file": "Flatten Binary Tree to Linked List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Trees.md"
+                "file": "Flatten Binary Tree to Linked List.md"
               }
             }
           }
@@ -148,15 +148,15 @@
   },
   "active": "c23dd03f0819f723",
   "lastOpenFiles": [
-    "Find Min and Max in a BST.md",
+    "morris_traveral.png.png",
+    "Flatten Binary Tree to Linked List.md",
     "Trees.md",
+    "Find Min and Max in a BST.md",
     "Find Min/Max in BST.md",
     "Find Min",
     "Introduction to Binary Search Trees.md",
     "Morris Traversal.md",
-    "Flatten Binary Tree to Linked List.md",
     "Search in a Binary Search Tree.md",
-    "Pasted image 20240328141648.png",
     "Serialize and Deserialize Binary Tree.md",
     "Construct Binary Tree from traversals.md",
     "Count Total Nodes in a Complete Binary Tree.md",
@@ -185,7 +185,6 @@
     "Postorder Traversal.md",
     "Level Order Traversal.md",
     "Binary Tree Representation.md",
-    "Symmetric Binary Tree.md",
     "Top, Bottom, Right",
     "Untitled.canvas"
   ]
