@@ -1,3 +1,4 @@
+![[flatten_binary.png]]
 ```python
 def flatten(self, root: Optional[TreeNode]) -> None:
 		curr = root

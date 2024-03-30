@@ -1,5 +1,5 @@
 Morris Traversal is a way to traverse a tree without the need of a stack or recursion. In Morris Traversal no recursion is necessary, because instead of relying on backtracking through a stack, a link back to the root of the (sub)tree is moved to the point at which it would be accessed in a recursive Inorder tree traversal algorithm anyway -- after its left subtree has finished.
-![[morris_traveral.png.png]]
+![[morris_traveral.png]]
 *Steps in Morris Inorder*:
 - current is root, if there is a node left of current, ==find the rightmost node== in the left subtree of current and link it to the current node, we call this a ==backlink==. Now, move current node to left subtree
 - Now, we continue, the first step, and go left
