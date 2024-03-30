@@ -1,6 +1,6 @@
-![[flatten_binary.png]]
+![[Flatten Binary Tree to Linked List_image_1.png]]
 ```python
-def flatten(self, root: Optional[TreeNode]) -> None:
+def flatten(self, root):
 		curr = root
 		while curr:
 			if curr.left is None:

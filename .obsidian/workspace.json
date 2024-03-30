@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "9df53d95bfa0503e",
+        "id": "6affb179199479a7",
         "type": "tabs",
         "children": [
           {
-            "id": "c23dd03f0819f723",
+            "id": "f894f9af6b70e877",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "morris_traveral.png"
+                "file": "Ceil and Floor in a BST.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "morris_traveral.png",
+                "file": "Ceil and Floor in a BST.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "morris_traveral.png",
+                "file": "Ceil and Floor in a BST.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "morris_traveral.png"
+                "file": "Ceil and Floor in a BST.md"
               }
             }
           }
@@ -144,33 +146,39 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1bb0ad2b00f943d5",
+  "active": "f894f9af6b70e877",
   "lastOpenFiles": [
-    "flatten_binary.png",
+    "image_20240331000808.png",
+    "Pasted image 20240331000826.png",
+    "Ceil and Floor in a BST.md",
+    "Pasted image 20240331000648.png",
+    "Pasted image 20240331000703.png",
+    "Trees.md",
+    "Serialize and Deserialize Binary Tree.md",
+    "image_1_20240330235536.png",
+    "Ceil and Floor in a BST_image_1.png",
+    "Pasted image 20240330201248.png",
+    "Pasted image 20240330203245.png",
+    "Pasted image 20240330203226.png",
+    "Pasted image 20240330203126.png",
+    "Flatten Binary Tree to Linked List.md",
+    "Search in a Binary Search Tree.md",
+    "Index.md",
+    "Binary Tree Representation.md",
     "Postorder Preorder Inorder traversal in one Traversal.md",
     "Morris Traversal.md",
-    "Flatten Binary Tree to Linked List.md",
-    "morris_traveral.png",
-    "Trees.md",
     "Find Min and Max in a BST.md",
     "Find Min/Max in BST.md",
     "Find Min",
     "Introduction to Binary Search Trees.md",
-    "Search in a Binary Search Tree.md",
-    "Serialize and Deserialize Binary Tree.md",
     "Construct Binary Tree from traversals.md",
     "Count Total Nodes in a Complete Binary Tree.md",
-    "Pasted Image 20240324200802_039.png",
     "Minimum Time Taken to Burn the Binary Tree.md",
     "Print all Nodes at a distance of K.md",
     "Excalidraw/Drawing 2024-03-25 22.07.57.excalidraw.md",
     "Excalidraw/Drawing 2024-03-24 19.37.27.excalidraw.md",
-    "Pasted Image 20240325210457_805.png",
-    "Pasted Image 20240325205430_822.png",
-    "Pasted Image 20240325200029_142.png",
     "Preorder Traversal.md",
     "LCA in Binary Tree.md",
-    "Pasted Image 20240324203813_885.png",
     "Excalidraw",
     "Excalidraw/Drawing 2024-03-24 16.53.06.excalidraw.md",
     "Check for Children Sum Property.md",
@@ -181,9 +189,6 @@
     "src",
     "package.json",
     "Inorder Traversal.md",
-    "Postorder Traversal.md",
-    "Level Order Traversal.md",
-    "Binary Tree Representation.md",
     "Top, Bottom, Right",
     "Untitled.canvas"
   ]
