@@ -5,16 +5,16 @@ Ceil of a number $x$ is the immediate greater number than $x$
 def findCeil(self,root, x):
     ans = -1
     def helper(root):
-    nonlocal ans
-    if root is None:
-        return
-		if x > root.val:
-			helper(root.right)
-		elif x < root.val:
-			ans = root.val
-			helper(root.left)
-		else:
-			ans = root.val
+        nonlocal ans
+        if root is None:
+            return
+    		if x > root.val:
+    			helper(root.right)
+    		elif x < root.val:
+    			ans = root.val
+    			helper(root.left)
+    		else:
+    			ans = root.val
 	helper(root)
 	return ans
 ```
