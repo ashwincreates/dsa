@@ -45,7 +45,7 @@
 | Topic                                 | Status   |
 | ------------------------------------- | -------- |
 | [[Ceil and Floor in a BST]]           | #todo🖋️ |
-| Insertion/Deletion in a BST           | #todo🖋️ |
+| [[Insertion and Deletion in a BST]]       | #todo🖋️ |
 | Find K-smallest element in a BST      | #todo🖋️ |
 | Check if a Tree is BST or BT          | #todo🖋️ |
 | LCA in a Binary Tree                  | #todo🖋️ |

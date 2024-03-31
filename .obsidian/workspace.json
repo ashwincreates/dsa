@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ceil and Floor in a BST.md",
+                "file": "Insertion and Deletion in a BST.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ceil and Floor in a BST.md",
+                "file": "Insertion and Deletion in a BST.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ceil and Floor in a BST.md",
+                "file": "Insertion and Deletion in a BST.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ceil and Floor in a BST.md"
+                "file": "Insertion and Deletion in a BST.md"
               }
             }
           }
@@ -148,12 +148,14 @@
   },
   "active": "f894f9af6b70e877",
   "lastOpenFiles": [
+    "Trees.md",
+    "Insertion and Deletion in a BST.md",
+    "Insertion",
+    "Ceil and Floor in a BST.md",
     "image_20240331000808.png",
     "Pasted image 20240331000826.png",
-    "Ceil and Floor in a BST.md",
     "Pasted image 20240331000648.png",
     "Pasted image 20240331000703.png",
-    "Trees.md",
     "Serialize and Deserialize Binary Tree.md",
     "image_1_20240330235536.png",
     "Ceil and Floor in a BST_image_1.png",
