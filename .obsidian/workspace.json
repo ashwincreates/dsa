@@ -11,11 +11,9 @@
             "id": "cf2b3af6df94d5be",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "LCA in Binary Tree.md",
-                "mode": "source",
-                "source": false
+                "file": "Flatten_Binary_Tree_to_Linked_List_image_1.png"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LCA in Binary Tree.md",
+                "file": "Flatten_Binary_Tree_to_Linked_List_image_1.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LCA in Binary Tree.md",
+                "file": "Flatten_Binary_Tree_to_Linked_List_image_1.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LCA in Binary Tree.md"
+                "file": "Flatten_Binary_Tree_to_Linked_List_image_1.png"
               }
             }
           }
@@ -148,8 +146,12 @@
   },
   "active": "cf2b3af6df94d5be",
   "lastOpenFiles": [
-    "LCA in a Binary Search Tree.md",
+    "image_20240331000808.png",
+    "image_1_20240330235536.png",
+    "Flatten_Binary_Tree_to_Linked_List_image_1.png",
+    "Flatten Binary Tree to Linked List.md",
     "LCA in Binary Tree.md",
+    "LCA in a Binary Search Tree.md",
     "Trees.md",
     "Check if a Tree is BST or BT.md",
     "Find K smallest and largest element in a BST.md",
@@ -161,18 +163,15 @@
     "Untitled 1",
     "Tree",
     "Insertion",
-    "image_20240331000808.png",
     "Pasted image 20240331000826.png",
     "Pasted image 20240331000648.png",
     "Pasted image 20240331000703.png",
     "Serialize and Deserialize Binary Tree.md",
-    "image_1_20240330235536.png",
     "Ceil and Floor in a BST_image_1.png",
     "Pasted image 20240330201248.png",
     "Pasted image 20240330203245.png",
     "Pasted image 20240330203226.png",
     "Pasted image 20240330203126.png",
-    "Flatten Binary Tree to Linked List.md",
     "Search in a Binary Search Tree.md",
     "Index.md",
     "Postorder Preorder Inorder traversal in one Traversal.md",
@@ -188,7 +187,6 @@
     "Excalidraw/Drawing 2024-03-24 19.37.27.excalidraw.md",
     "Preorder Traversal.md",
     "Excalidraw",
-    "Excalidraw/Drawing 2024-03-24 16.53.06.excalidraw.md",
     "src/pages/index.astro",
     "src/pages",
     "src",

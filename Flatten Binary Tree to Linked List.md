@@ -1,4 +1,4 @@
-![[Flatten Binary Tree to Linked List_image_1.png]]
+![[Flatten_Binary_Tree_to_Linked_List_image_1.png]]
 ```python
 def flatten(self, root):
 		curr = root
