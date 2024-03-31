@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Insertion and Deletion in a BST.md",
+                "file": "Ceil and Floor in a BST.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Insertion and Deletion in a BST.md",
+                "file": "Ceil and Floor in a BST.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Insertion and Deletion in a BST.md",
+                "file": "Ceil and Floor in a BST.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Insertion and Deletion in a BST.md"
+                "file": "Ceil and Floor in a BST.md"
               }
             }
           }
@@ -148,10 +148,14 @@
   },
   "active": "f894f9af6b70e877",
   "lastOpenFiles": [
-    "Trees.md",
-    "Insertion and Deletion in a BST.md",
-    "Insertion",
+    "Binary Tree Representation.md",
     "Ceil and Floor in a BST.md",
+    "Trees.md",
+    "Find K-smallest element in a BST.md",
+    "Insertion and Deletion in a BST.md",
+    "Untitled 1",
+    "Tree",
+    "Insertion",
     "image_20240331000808.png",
     "Pasted image 20240331000826.png",
     "Pasted image 20240331000648.png",
@@ -166,7 +170,6 @@
     "Flatten Binary Tree to Linked List.md",
     "Search in a Binary Search Tree.md",
     "Index.md",
-    "Binary Tree Representation.md",
     "Postorder Preorder Inorder traversal in one Traversal.md",
     "Morris Traversal.md",
     "Find Min and Max in a BST.md",
@@ -190,7 +193,6 @@
     "src/pages",
     "src",
     "package.json",
-    "Inorder Traversal.md",
     "Top, Bottom, Right",
     "Untitled.canvas"
   ]

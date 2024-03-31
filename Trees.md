@@ -2,14 +2,14 @@
 #### Trees
 ---
 ###### Traversal
-| Topics                                                      | Status  |
-| ----------------------------------------------------------- | ------- |
-| [[Introduction to Trees]]                                   | #note📃 |
-| [[Binary Tree Representation]]                              | #done✅  |
-| [[Preorder Traversal]]                                      | #done✅  |
-| [[Postorder Traversal]]                                     | #done✅  |
-| [[Inorder Traversal]]                                       | #done✅  |
-| [[Level Order Traversal]]                                   | #done✅  |
+| Topics                                                    | Status  |
+| --------------------------------------------------------- | ------- |
+| [[Introduction to Trees]]                                 | #note📃 |
+| [[Binary Tree Representation]]                            | #done✅  |
+| [[Preorder Traversal]]                                    | #done✅  |
+| [[Postorder Traversal]]                                   | #done✅  |
+| [[Inorder Traversal]]                                     | #done✅  |
+| [[Level Order Traversal]]                                 | #done✅  |
 | [[Postorder Preorder Inorder traversal in one Traversal]] | #done✅  |
 ###### Medium Problems
 | Topics                                   | Status |
@@ -45,8 +45,8 @@
 | Topic                                 | Status   |
 | ------------------------------------- | -------- |
 | [[Ceil and Floor in a BST]]           | #todo🖋️ |
-| [[Insertion and Deletion in a BST]]       | #todo🖋️ |
-| Find K-smallest element in a BST      | #todo🖋️ |
+| [[Insertion and Deletion in a BST]]   | #todo🖋️ |
+| [[Find K-smallest element in a BST]]  | #todo🖋️ |
 | Check if a Tree is BST or BT          | #todo🖋️ |
 | LCA in a Binary Tree                  | #todo🖋️ |
 | Construct BST from preorder traversal | #todo🖋️ |

@@ -10,7 +10,6 @@ def insertIntoBST(root, val):
 		root.right = self.insertIntoBST(root.right, val)
 	return root
 ```
-
 ###### Deletion
 In deletion to reduce complexity, we exchange the node to be deleted with it's Inorder predecessor, and remove the predecessor, this make it easy since predecessor is usually a leaf node.
 ```python
