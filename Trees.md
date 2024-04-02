@@ -4,7 +4,7 @@
 ###### Traversal
 | Topics                                                    | Status  |
 | --------------------------------------------------------- | ------- |
-| [[Introduction to Trees]]                                 | #note📃 |
+| [[Introduction to Trees]]                           | #note📃 |
 | [[Binary Tree Representation]]                            | #done✅  |
 | [[Preorder Traversal]]                                    | #done✅  |
 | [[Postorder Traversal]]                                   | #done✅  |
@@ -48,9 +48,9 @@
 | [[Insertion and Deletion in a BST]]              | #done✅   |
 | [[Find K smallest and largest element in a BST]] | #todo🖋️ |
 | [[Check if a Tree is BST or BT]]                 | #todo🖋️ |
-| [[LCA in a Binary Search Tree]]                         | #todo🖋️ |
-| Construct BST from preorder traversal            | #todo🖋️ |
-| Inorder Successor/Predecessor in BST             | #todo🖋️ |
+| [[LCA in a Binary Search Tree]]                  | #todo🖋️ |
+| [[Construct BST from preorder traversal]]        | #todo🖋️ |
+| [[Inorder Successor and Predecessor in BST]]     | #todo🖋️ |
 | Merge 2 BST's                                    | #todo🖋️ |
 | Two Sum in a BST                                 | #todo🖋️ |
 | Recover BST with two nodes swapper               | #todo🖋️ |

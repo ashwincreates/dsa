@@ -1,4 +1,6 @@
 {
   "alwaysUpdateLinks": true,
-  "useTab": false
+  "useTab": false,
+  "newLinkFormat": "relative",
+  "useMarkdownLinks": false
 }

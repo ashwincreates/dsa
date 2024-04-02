@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "4e088b83a3929c92",
+        "id": "c67840557e779721",
         "type": "tabs",
         "children": [
           {
-            "id": "cf2b3af6df94d5be",
+            "id": "6c1f48fb68b13cf1",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Flatten_Binary_Tree_to_Linked_List_image_1.png"
+                "file": "Inorder Successor and Predecessor in BST.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Flatten_Binary_Tree_to_Linked_List_image_1.png",
+                "file": "Inorder Successor and Predecessor in BST.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Flatten_Binary_Tree_to_Linked_List_image_1.png",
+                "file": "Inorder Successor and Predecessor in BST.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,11 +125,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Flatten_Binary_Tree_to_Linked_List_image_1.png"
+                "file": "Inorder Successor and Predecessor in BST.md"
               }
             }
+          },
+          {
+            "id": "684696141080fe37",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -144,22 +155,30 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cf2b3af6df94d5be",
+  "active": "6c1f48fb68b13cf1",
   "lastOpenFiles": [
-    "image_20240331000808.png",
-    "image_1_20240330235536.png",
-    "Flatten_Binary_Tree_to_Linked_List_image_1.png",
-    "Flatten Binary Tree to Linked List.md",
-    "LCA in Binary Tree.md",
-    "LCA in a Binary Search Tree.md",
     "Trees.md",
-    "Check if a Tree is BST or BT.md",
+    "Inorder Successor and Predecessor in BST.md",
+    "Construct BST from preorder traversal.md",
+    "LCA in Binary Tree.md",
     "Find K smallest and largest element in a BST.md",
+    "Check if a Tree is BST or BT.md",
+    "Pasted image 20240401211016.png",
+    "Binary Tree Representation.md",
+    "Index.md",
+    "Introduction to Trees.md",
+    "Trees",
+    "Trees",
+    "Trees/Binary Tree Representation.md",
+    "Flatten Binary Tree to Linked List.md",
+    "Flatten_Binary_Tree_to_Linked_List_image_1.png",
+    "image_1_20240330235536.png",
+    "image_20240331000808.png",
+    "LCA in a Binary Search Tree.md",
     "Ceil and Floor in a BST.md",
     "Find K-smallest element in a BST.md",
     "Insertion and Deletion in a BST.md",
     "Find Min and Max in a BST.md",
-    "Binary Tree Representation.md",
     "Untitled 1",
     "Tree",
     "Insertion",
@@ -170,10 +189,7 @@
     "Ceil and Floor in a BST_image_1.png",
     "Pasted image 20240330201248.png",
     "Pasted image 20240330203245.png",
-    "Pasted image 20240330203226.png",
-    "Pasted image 20240330203126.png",
     "Search in a Binary Search Tree.md",
-    "Index.md",
     "Postorder Preorder Inorder traversal in one Traversal.md",
     "Morris Traversal.md",
     "Find Min/Max in BST.md",
@@ -183,15 +199,10 @@
     "Count Total Nodes in a Complete Binary Tree.md",
     "Minimum Time Taken to Burn the Binary Tree.md",
     "Print all Nodes at a distance of K.md",
-    "Excalidraw/Drawing 2024-03-25 22.07.57.excalidraw.md",
-    "Excalidraw/Drawing 2024-03-24 19.37.27.excalidraw.md",
-    "Preorder Traversal.md",
     "Excalidraw",
     "src/pages/index.astro",
     "src/pages",
     "src",
-    "package.json",
-    "Top, Bottom, Right",
     "Untitled.canvas"
   ]
 }

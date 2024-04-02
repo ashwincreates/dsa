@@ -1,3 +1,4 @@
+![[Pasted image 20240401211016.png]]
 ```python
 def isValidBST(root):
     mn = -10000000000
