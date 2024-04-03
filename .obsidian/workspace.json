@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "37a43638e2469bf2",
+        "id": "c9bb80222ff05029",
         "type": "tabs",
         "children": [
           {
-            "id": "1c6bc8a3c6594cf8",
+            "id": "6ba82d55a1c2a33d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -155,11 +155,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1c6bc8a3c6594cf8",
+  "active": "6ba82d55a1c2a33d",
   "lastOpenFiles": [
+    "Trees.md",
     "Index.md",
     "Check if a Tree is BST or BT.md",
-    "Trees.md",
     "Merge 2 BST.md",
     "Largest BST in a BST.md",
     "Recover BST with two nodes swapper.md",
