@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c67840557e779721",
+        "id": "37a43638e2469bf2",
         "type": "tabs",
         "children": [
           {
-            "id": "6c1f48fb68b13cf1",
+            "id": "1c6bc8a3c6594cf8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Trees.md",
+                "file": "Index.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Trees.md",
+                "file": "Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Trees.md",
+                "file": "Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Trees.md"
+                "file": "Index.md"
               }
             }
           },
@@ -155,12 +155,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6c1f48fb68b13cf1",
+  "active": "1c6bc8a3c6594cf8",
   "lastOpenFiles": [
-    "Merge 2 BST.md",
-    "Trees.md",
-    "Largest BST in a BST.md",
+    "Index.md",
     "Check if a Tree is BST or BT.md",
+    "Trees.md",
+    "Merge 2 BST.md",
+    "Largest BST in a BST.md",
     "Recover BST with two nodes swapper.md",
     "Two Sum in a BST.md",
     "Construct BST from preorder traversal.md",
@@ -169,7 +170,6 @@
     "Find K smallest and largest element in a BST.md",
     "Pasted_image_20240401211016.png",
     "Binary Tree Representation.md",
-    "Index.md",
     "Introduction to Trees.md",
     "Trees",
     "Trees",
