@@ -19,7 +19,7 @@ def bstFromPreorder(self, preorder):
 ```
 
 ###### $O(nlogn)$ Solution
-Instead of searching linearly we can use upper bound and lower bound function to the element in $log(n)$.
+Instead of searching linearly we can use upper bound and lower bound function to find the element in $log(n)$.
 ```python
 def bstFromPreorder(self):
     if len(preorder) == 0:
@@ -36,7 +36,7 @@ This solution tracks and indexes the preorder
 ```python
 def bstFromPreorder(preorder):
     i = 0
-    def helper(A, bound=float('inf')):
+    def helper(A, bound):
         nonlocal i
         if i == len(A) or A[i] > bound:
             return None

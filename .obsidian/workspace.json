@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inorder Successor and Predecessor in BST.md",
+                "file": "Trees.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inorder Successor and Predecessor in BST.md",
+                "file": "Trees.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inorder Successor and Predecessor in BST.md",
+                "file": "Trees.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inorder Successor and Predecessor in BST.md"
+                "file": "Trees.md"
               }
             }
           },
@@ -157,9 +157,11 @@
   },
   "active": "6c1f48fb68b13cf1",
   "lastOpenFiles": [
+    "Recover BST with two nodes swapper.md",
     "Trees.md",
-    "Inorder Successor and Predecessor in BST.md",
+    "Two Sum in a BST.md",
     "Construct BST from preorder traversal.md",
+    "Inorder Successor and Predecessor in BST.md",
     "LCA in Binary Tree.md",
     "Find K smallest and largest element in a BST.md",
     "Check if a Tree is BST or BT.md",
@@ -197,8 +199,6 @@
     "Introduction to Binary Search Trees.md",
     "Construct Binary Tree from traversals.md",
     "Count Total Nodes in a Complete Binary Tree.md",
-    "Minimum Time Taken to Burn the Binary Tree.md",
-    "Print all Nodes at a distance of K.md",
     "Excalidraw",
     "src/pages/index.astro",
     "src/pages",

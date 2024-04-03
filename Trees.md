@@ -51,7 +51,7 @@
 | [[LCA in a Binary Search Tree]]                  | #todo🖋️ |
 | [[Construct BST from preorder traversal]]        | #todo🖋️ |
 | [[Inorder Successor and Predecessor in BST]]     | #todo🖋️ |
-| Merge 2 BST's                                    | #todo🖋️ |
-| Two Sum in a BST                                 | #todo🖋️ |
-| Recover BST with two nodes swapper               | #todo🖋️ |
+| Merge 2 BST?                                     | #todo🖋️ |
+| [[Two Sum in a BST]]                             | #todo🖋️ |
+| [[Recover BST with two nodes swapper]]           | #todo🖋️ |
 | Largest BST in a BST                             | #todo🖋️ |
