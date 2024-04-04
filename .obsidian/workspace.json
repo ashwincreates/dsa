@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c9bb80222ff05029",
+        "id": "71f671e6cfdcd2b7",
         "type": "tabs",
         "children": [
           {
-            "id": "6ba82d55a1c2a33d",
+            "id": "664efd8ceed62c48",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Search in a Binary Search Tree.md",
+                "file": "Trees/Index.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Search in a Binary Search Tree.md",
+                "file": "Trees/Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Search in a Binary Search Tree.md",
+                "file": "Trees/Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Search in a Binary Search Tree.md"
+                "file": "Trees/Index.md"
               }
             }
           },
@@ -155,54 +155,54 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6ba82d55a1c2a33d",
+  "active": "664efd8ceed62c48",
   "lastOpenFiles": [
-    "Find K-smallest element in a BST.md",
-    "Search in a Binary Search Tree.md",
-    "Trees.md",
+    "Graph/Index.md",
+    "Trees/Index.md",
     "Index.md",
-    "Check if a Tree is BST or BT.md",
-    "Merge 2 BST.md",
-    "Largest BST in a BST.md",
-    "Recover BST with two nodes swapper.md",
-    "Two Sum in a BST.md",
-    "Construct BST from preorder traversal.md",
-    "Inorder Successor and Predecessor in BST.md",
-    "LCA in Binary Tree.md",
-    "Find K smallest and largest element in a BST.md",
-    "Pasted_image_20240401211016.png",
-    "Binary Tree Representation.md",
-    "Introduction to Trees.md",
-    "Trees",
-    "Trees",
+    "Graph/Untitled.md",
+    "Graph",
+    "Trees/Serialize and Deserialize Binary Tree.md",
+    "Trees/Inorder Successor and Predecessor in BST.md",
     "Trees/Binary Tree Representation.md",
-    "Flatten Binary Tree to Linked List.md",
-    "Flatten_Binary_Tree_to_Linked_List_image_1.png",
-    "image_1_20240330235536.png",
-    "image_20240331000808.png",
-    "LCA in a Binary Search Tree.md",
-    "Ceil and Floor in a BST.md",
-    "Insertion and Deletion in a BST.md",
-    "Find Min and Max in a BST.md",
+    "Trees/Recover BST with two nodes swapper.md",
+    "Trees",
+    "Trees/Search in a Binary Search Tree.md",
+    "Find K-smallest element in a BST.md",
+    "Trees/Check if a Tree is BST or BT.md",
+    "Trees/Merge 2 BST.md",
+    "Trees/Largest BST in a BST.md",
+    "Trees/Two Sum in a BST.md",
+    "Trees/Construct BST from preorder traversal.md",
+    "Trees/LCA in Binary Tree.md",
+    "Trees/Find K smallest and largest element in a BST.md",
+    "Trees/Pasted_image_20240401211016.png",
+    "Trees/Introduction to Trees.md",
+    "Trees",
+    "Trees",
+    "Trees/Flatten Binary Tree to Linked List.md",
+    "Trees/Flatten_Binary_Tree_to_Linked_List_image_1.png",
+    "Trees/image_1_20240330235536.png",
+    "Trees/image_20240331000808.png",
+    "Trees/LCA in a Binary Search Tree.md",
+    "Trees/Ceil and Floor in a BST.md",
+    "Trees/Insertion and Deletion in a BST.md",
+    "Trees/Find Min and Max in a BST.md",
     "Untitled 1",
     "Tree",
     "Insertion",
     "Pasted image 20240331000826.png",
     "Pasted image 20240331000648.png",
     "Pasted image 20240331000703.png",
-    "Serialize and Deserialize Binary Tree.md",
     "Ceil and Floor in a BST_image_1.png",
     "Pasted image 20240330201248.png",
     "Pasted image 20240330203245.png",
-    "Postorder Preorder Inorder traversal in one Traversal.md",
-    "Morris Traversal.md",
+    "Trees/Postorder Preorder Inorder traversal in one Traversal.md",
+    "Trees/Morris Traversal.md",
     "Find Min/Max in BST.md",
     "Find Min",
-    "Introduction to Binary Search Trees.md",
     "Excalidraw",
     "src/pages/index.astro",
-    "src/pages",
-    "src",
     "Untitled.canvas"
   ]
 }
