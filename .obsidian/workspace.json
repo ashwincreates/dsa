@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Index.md",
+                "file": "Search in a Binary Search Tree.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Index.md",
+                "file": "Search in a Binary Search Tree.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Index.md",
+                "file": "Search in a Binary Search Tree.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Index.md"
+                "file": "Search in a Binary Search Tree.md"
               }
             }
           },
@@ -157,6 +157,8 @@
   },
   "active": "6ba82d55a1c2a33d",
   "lastOpenFiles": [
+    "Find K-smallest element in a BST.md",
+    "Search in a Binary Search Tree.md",
     "Trees.md",
     "Index.md",
     "Check if a Tree is BST or BT.md",
@@ -180,7 +182,6 @@
     "image_20240331000808.png",
     "LCA in a Binary Search Tree.md",
     "Ceil and Floor in a BST.md",
-    "Find K-smallest element in a BST.md",
     "Insertion and Deletion in a BST.md",
     "Find Min and Max in a BST.md",
     "Untitled 1",
@@ -193,7 +194,6 @@
     "Ceil and Floor in a BST_image_1.png",
     "Pasted image 20240330201248.png",
     "Pasted image 20240330203245.png",
-    "Search in a Binary Search Tree.md",
     "Postorder Preorder Inorder traversal in one Traversal.md",
     "Morris Traversal.md",
     "Find Min/Max in BST.md",

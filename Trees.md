@@ -2,27 +2,27 @@
 #### Trees
 ---
 ###### Traversal
-| Topics                                                    | Status  |
-| --------------------------------------------------------- | ------- |
-| [[Introduction to Trees]]                           | #note📃 |
-| [[Binary Tree Representation]]                            | #done✅  |
-| [[Preorder Traversal]]                                    | #done✅  |
-| [[Postorder Traversal]]                                   | #done✅  |
-| [[Inorder Traversal]]                                     | #done✅  |
-| [[Level Order Traversal]]                                 | #done✅  |
-| [[Postorder Preorder Inorder traversal in one Traversal]] | #done✅  |
+| Topics                                                    | Status   |
+| --------------------------------------------------------- | -------- |
+| [[Introduction to Trees]]                                 | #note📃  |
+| [[Binary Tree Representation]]                            | #done✅   |
+| [[Preorder Traversal]]                                    | #done✅   |
+| [[Postorder Traversal]]                                   | #done✅   |
+| [[Inorder Traversal]]                                     | #done✅   |
+| [[Level Order Traversal]]                                 | #revise  |
+| [[Postorder Preorder Inorder traversal in one Traversal]] | #revise  |
 ###### Medium Problems
-| Topics                                   | Status |
-| ---------------------------------------- | ------ |
-| [[Height and Diameter of a Binary Tree]] | #done✅ |
-| [[Maximum Path Sum]]                     | #done✅ |
-| [[Check if two trees are identical]]     | #done✅ |
-| [[Views of Binary Tree]]                 | #done✅ |
-| [[Symmetric Binary Tree]]                | #done✅ |
+| Topics                                   | Status   |
+| ---------------------------------------- | -------- |
+| [[Height and Diameter of a Binary Tree]] | #done✅   |
+| [[Maximum Path Sum]]                     | #revise  |
+| [[Check if two trees are identical]]     | #done✅   |
+| [[Views of Binary Tree]]                 | #revise  |
+| [[Symmetric Binary Tree]]                | #revise  |
 ###### Hard Problems
 | Topics                                          | Status  |
 | ----------------------------------------------- | ------- |
-| [[Root to Node Path in Binary Tree]]            | #done✅  |
+| [[Root to Node Path in Binary Tree]]            | #revise |
 | [[LCA in Binary Tree]]                          | #done✅  |
 | [[Maximum Width of a Binary Tree]]              | #done✅  |
 | [[Check for Children Sum Property]]             | #done✅  |
