@@ -11,9 +11,11 @@
             "id": "d2789f2c0cb92b80",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Trees/Pasted image 20240404221007.png"
+                "file": "Graph/Index.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -49,7 +51,7 @@
                 "query": "tag:#todo🖋️",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
@@ -67,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "da45610ff444d758",
@@ -83,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Trees/Pasted image 20240404221007.png",
+                "file": "Graph/Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Trees/Pasted image 20240404221007.png",
+                "file": "Graph/Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Trees/Pasted image 20240404221007.png"
+                "file": "Graph/Index.md"
               }
             }
           },
@@ -153,21 +156,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1bb0ad2b00f943d5",
+  "active": "d2789f2c0cb92b80",
   "lastOpenFiles": [
-    "Trees/Maximum Width of a Binary Tree.md",
+    "Index.md",
     "Trees/Index.md",
+    "Graph/Index.md",
+    "Trees/Pasted_image_20240404221007.png",
+    "Trees/Maximum Width of a Binary Tree.md",
     "Trees/Root to Node Path in Binary Tree.md",
     "Trees/Symmetric Binary Tree.md",
     "Trees/Maximum Path Sum.md",
     "Trees/Height and Diameter of a Binary Tree.md",
     "Trees/Views of Binary Tree.md",
-    "Trees/Pasted image 20240404221007.png",
     "Trees/Postorder Preorder Inorder traversal in one Traversal.md",
     "Trees/Level Order Traversal.md",
     "Trees/Merge 2 BST.md",
-    "Index.md",
-    "Graph/Index.md",
     "Graph/Untitled.md",
     "Graph",
     "Trees/Serialize and Deserialize Binary Tree.md",
@@ -184,7 +187,6 @@
     "Trees/LCA in Binary Tree.md",
     "Trees/Find K smallest and largest element in a BST.md",
     "Trees/Pasted_image_20240401211016.png",
-    "Trees/Introduction to Trees.md",
     "Trees",
     "Trees",
     "Trees/Flatten_Binary_Tree_to_Linked_List_image_1.png",

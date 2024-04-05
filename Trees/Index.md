@@ -2,27 +2,27 @@
 #### Trees
 ---
 ###### Traversal
-| Topics                                                    | Status   |
-| --------------------------------------------------------- | -------- |
-| [[Introduction to Trees]]                                 | #note📃  |
-| [[Binary Tree Representation]]                            | #done✅   |
-| [[Preorder Traversal]]                                    | #done✅   |
-| [[Postorder Traversal]]                                   | #done✅   |
-| [[Inorder Traversal]]                                     | #done✅   |
-| [[Level Order Traversal]]                                 | #revise  |
-| [[Postorder Preorder Inorder traversal in one Traversal]] | #revise  |
+| Topics                                                    | Status  |
+| --------------------------------------------------------- | ------- |
+| [[Introduction to Trees]]                                 | #note📃 |
+| [[Binary Tree Representation]]                            | #done✅  |
+| [[Preorder Traversal]]                                    | #done✅  |
+| [[Postorder Traversal]]                                   | #done✅  |
+| [[Inorder Traversal]]                                     | #done✅  |
+| [[Level Order Traversal]]                                 | #done✅  |
+| [[Postorder Preorder Inorder traversal in one Traversal]] | #done✅  |
 ###### Medium Problems
-| Topics                                   | Status   |
-| ---------------------------------------- | -------- |
-| [[Height and Diameter of a Binary Tree]] | #done✅   |
-| [[Maximum Path Sum]]                     | #revise  |
-| [[Check if two trees are identical]]     | #done✅   |
-| [[Views of Binary Tree]]                 | #revise  |
-| [[Symmetric Binary Tree]]                | #revise  |
+| Topics                                   | Status  |
+| ---------------------------------------- | ------- |
+| [[Height and Diameter of a Binary Tree]] | #done✅  |
+| [[Maximum Path Sum]]                     | #done✅  |
+| [[Check if two trees are identical]]     | #done✅  |
+| [[Views of Binary Tree]]                 | #done✅  |
+| [[Symmetric Binary Tree]]                | #done✅  |
 ###### Hard Problems
 | Topics                                          | Status  |
 | ----------------------------------------------- | ------- |
-| [[Root to Node Path in Binary Tree]]            | #revise |
+| [[Root to Node Path in Binary Tree]]            | #done✅  |
 | [[LCA in Binary Tree]]                          | #done✅  |
 | [[Maximum Width of a Binary Tree]]              | #done✅  |
 | [[Check for Children Sum Property]]             | #done✅  |
@@ -42,16 +42,16 @@
 | [[Search in a Binary Search Tree]]      | #done✅  |
 | [[Find Min and Max in a BST]]           | #done✅  |
 ##### Problems
-| Topic                                            | Status |
-| ------------------------------------------------ | ------ |
-| [[Ceil and Floor in a BST]]                      | #done✅ |
-| [[Insertion and Deletion in a BST]]              | #done✅ |
-| [[Find K smallest and largest element in a BST]] | #done✅ |
-| [[Check if a Tree is BST or BT]]                 | #done✅ |
-| [[LCA in a Binary Search Tree]]                  | #done✅ |
-| [[Construct BST from preorder traversal]]        | #done✅ |
-| [[Inorder Successor and Predecessor in BST]]     | #done✅ |
-| [[Merge 2 BST]]                                  | #todo  |
-| [[Two Sum in a BST]]                             | #done✅ |
-| [[Recover BST with two nodes swapper]]           | #done✅ |
-| [[Largest BST in a BST]]                         | #todo  |
+| Topic                                            | Status    |
+| ------------------------------------------------ | --------- |
+| [[Ceil and Floor in a BST]]                      | #done✅    |
+| [[Insertion and Deletion in a BST]]              | #done✅    |
+| [[Find K smallest and largest element in a BST]] | #done✅    |
+| [[Check if a Tree is BST or BT]]                 | #done✅    |
+| [[LCA in a Binary Search Tree]]                  | #done✅    |
+| [[Construct BST from preorder traversal]]        | #done✅    |
+| [[Inorder Successor and Predecessor in BST]]     | #done✅    |
+| [[Merge 2 BST]]                                  | #todo🖋️  |
+| [[Two Sum in a BST]]                             | #done✅    |
+| [[Recover BST with two nodes swapper]]           | #done✅    |
+| [[Largest BST in a BST]]                         | #todo🖋️  |
