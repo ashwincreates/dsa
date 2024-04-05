@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Graph/Index.md",
+                "file": "Trees/Index.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Graph/Index.md",
+                "file": "Trees/Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Graph/Index.md",
+                "file": "Trees/Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Graph/Index.md"
+                "file": "Trees/Index.md"
               }
             }
           },
@@ -158,19 +158,24 @@
   },
   "active": "d2789f2c0cb92b80",
   "lastOpenFiles": [
-    "Index.md",
+    "Trees/Merge 2 BST.md",
     "Trees/Index.md",
+    "Largest BST in a BT.md",
+    "Index.md",
     "Graph/Index.md",
-    "Trees/Pasted_image_20240404221007.png",
+    "Trees/Print all Nodes at a distance of K.md",
+    "Trees/Construct Binary Tree from traversals.md",
+    "Trees/Count Total Nodes in a Complete Binary Tree.md",
+    "Trees/Check for Children Sum Property.md",
     "Trees/Maximum Width of a Binary Tree.md",
+    "Trees/Views of Binary Tree.md",
+    "Trees/Level Order Traversal.md",
+    "Trees/Pasted_image_20240404221007.png",
     "Trees/Root to Node Path in Binary Tree.md",
     "Trees/Symmetric Binary Tree.md",
     "Trees/Maximum Path Sum.md",
     "Trees/Height and Diameter of a Binary Tree.md",
-    "Trees/Views of Binary Tree.md",
     "Trees/Postorder Preorder Inorder traversal in one Traversal.md",
-    "Trees/Level Order Traversal.md",
-    "Trees/Merge 2 BST.md",
     "Graph/Untitled.md",
     "Graph",
     "Trees/Serialize and Deserialize Binary Tree.md",
@@ -182,10 +187,6 @@
     "Find K-smallest element in a BST.md",
     "Trees/Check if a Tree is BST or BT.md",
     "Trees/Largest BST in a BST.md",
-    "Trees/Two Sum in a BST.md",
-    "Trees/Construct BST from preorder traversal.md",
-    "Trees/LCA in Binary Tree.md",
-    "Trees/Find K smallest and largest element in a BST.md",
     "Trees/Pasted_image_20240401211016.png",
     "Trees",
     "Trees",

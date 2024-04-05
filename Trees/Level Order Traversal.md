@@ -1,7 +1,3 @@
-> [!abstract] Contents
-> - Level Order Traversal
-
-##### Level Order Traversal
 Traversing the tree level by level
 
 ```python
