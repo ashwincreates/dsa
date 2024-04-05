@@ -4,6 +4,7 @@
 > - Left View
 > - Right View
 
+![[Pasted image 20240404221007.png]]
 ##### Top/Bottom  View
 To create top/bottom views we create imaginary numbered ==vertical== lines through nodes, and map top nodes of these lines for top view and bottom nodes for bottom views
 ```mermaid

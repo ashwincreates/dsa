@@ -21,7 +21,7 @@ def height(root):
 ```
 
 ##### Diameter
-Diameter of a binary tree is count of the longest path between any two nodes in a binary tree
+Diameter of a binary tree is count of the ==longest path between any two nodes== in a binary tree
 
 ```python
 def diameter(root):

@@ -11,11 +11,9 @@
             "id": "d2789f2c0cb92b80",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Index.md",
-                "mode": "source",
-                "source": false
+                "file": "Trees/Pasted image 20240404221007.png"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Index.md",
+                "file": "Trees/Pasted image 20240404221007.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Index.md",
+                "file": "Trees/Pasted image 20240404221007.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Index.md"
+                "file": "Trees/Pasted image 20240404221007.png"
               }
             }
           },
@@ -155,10 +153,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d2789f2c0cb92b80",
+  "active": "1bb0ad2b00f943d5",
   "lastOpenFiles": [
-    "Index.md",
+    "Trees/Maximum Width of a Binary Tree.md",
     "Trees/Index.md",
+    "Trees/Root to Node Path in Binary Tree.md",
+    "Trees/Symmetric Binary Tree.md",
+    "Trees/Maximum Path Sum.md",
+    "Trees/Height and Diameter of a Binary Tree.md",
+    "Trees/Views of Binary Tree.md",
+    "Trees/Pasted image 20240404221007.png",
+    "Trees/Postorder Preorder Inorder traversal in one Traversal.md",
+    "Trees/Level Order Traversal.md",
+    "Trees/Merge 2 BST.md",
+    "Index.md",
     "Graph/Index.md",
     "Graph/Untitled.md",
     "Graph",
@@ -170,7 +178,6 @@
     "Trees/Search in a Binary Search Tree.md",
     "Find K-smallest element in a BST.md",
     "Trees/Check if a Tree is BST or BT.md",
-    "Trees/Merge 2 BST.md",
     "Trees/Largest BST in a BST.md",
     "Trees/Two Sum in a BST.md",
     "Trees/Construct BST from preorder traversal.md",
@@ -180,14 +187,9 @@
     "Trees/Introduction to Trees.md",
     "Trees",
     "Trees",
-    "Trees/Flatten Binary Tree to Linked List.md",
     "Trees/Flatten_Binary_Tree_to_Linked_List_image_1.png",
     "Trees/image_1_20240330235536.png",
     "Trees/image_20240331000808.png",
-    "Trees/LCA in a Binary Search Tree.md",
-    "Trees/Ceil and Floor in a BST.md",
-    "Trees/Insertion and Deletion in a BST.md",
-    "Trees/Find Min and Max in a BST.md",
     "Untitled 1",
     "Tree",
     "Insertion",
@@ -196,10 +198,6 @@
     "Pasted image 20240331000703.png",
     "Ceil and Floor in a BST_image_1.png",
     "Pasted image 20240330201248.png",
-    "Pasted image 20240330203245.png",
-    "Trees/Postorder Preorder Inorder traversal in one Traversal.md",
-    "Trees/Morris Traversal.md",
-    "Find Min/Max in BST.md",
     "Find Min",
     "Excalidraw",
     "src/pages/index.astro",

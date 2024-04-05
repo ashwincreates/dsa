@@ -2,5 +2,6 @@
   "alwaysUpdateLinks": true,
   "useTab": false,
   "newLinkFormat": "shortest",
-  "useMarkdownLinks": false
+  "useMarkdownLinks": false,
+  "attachmentFolderPath": "./"
 }
