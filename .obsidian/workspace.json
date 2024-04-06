@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Largest BST in a BT.md",
+                "file": "Trees/Largest BST in a BT.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "da45610ff444d758",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Largest BST in a BT.md",
+                "file": "Trees/Largest BST in a BT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Largest BST in a BT.md",
+                "file": "Trees/Largest BST in a BT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Largest BST in a BT.md"
+                "file": "Trees/Largest BST in a BT.md"
               }
             }
           },
@@ -159,8 +158,8 @@
   "active": "d2789f2c0cb92b80",
   "lastOpenFiles": [
     "Trees/Index.md",
+    "Trees/Largest BST in a BT.md",
     "Trees/Merge 2 BST.md",
-    "Largest BST in a BT.md",
     "Index.md",
     "Graph/Index.md",
     "Trees/Print all Nodes at a distance of K.md",

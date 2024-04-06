@@ -3,5 +3,6 @@
   "useTab": false,
   "newLinkFormat": "shortest",
   "useMarkdownLinks": false,
-  "attachmentFolderPath": "./"
+  "attachmentFolderPath": "./",
+  "newFileLocation": "current"
 }
