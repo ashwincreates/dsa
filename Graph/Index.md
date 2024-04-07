@@ -1,14 +1,13 @@
-> Graph Data Structure
-
+> Graph Data Structure🕸️
 ##### Graph
 ---
 ###### Concepts
-| Topic                  | Status   |
-| ---------------------- | -------- |
-| Introduction to Graphs | #todo🖋️ |
-| Connected Components   | #todo🖋️ |
-| BFS                    | #todo🖋️ |
-| DFS                    | #todo🖋️ |
+| Topic                      | Status   |
+| -------------------------- | -------- |
+| [[Introduction to Graphs]] | #todo🖋️ |
+| Connected Components       | #todo🖋️ |
+| BFS                        | #todo🖋️ |
+| DFS                        | #todo🖋️ |
 ###### DFS and BFS problems
 | Topic                          | Status   |
 | ------------------------------ | -------- |

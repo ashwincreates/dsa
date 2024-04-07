@@ -1,26 +1,6 @@
-> [!abstract] Contents
-> - Top View
-> - Bottom View
-> - Left View
-> - Right View
-
 ![[Pasted_image_20240404221007.png]]
 ##### Top/Bottom  View
 To create top/bottom views we create imaginary numbered ==vertical== lines through nodes, and map top nodes of these lines for top view and bottom nodes for bottom views
-```mermaid
-flowchart LR
-	subgraph TREE
-		direction TB
-		A --> B
-		A --> C
-	end
-	subgraph LINES
-		direction TB
-		0 --> -1
-		0 --> 1
-	end
-	TREE --> LINES
-```
 
 ###### Top View
 ```python
@@ -58,14 +38,6 @@ def bottom(root):
 
 ##### Left/Right Views
 To create left/right views we create imaginary ==horizontal== lines/level through nodes, and map left-most nodes of these values for left view and right-most nodes for right 
-```mermaid
-flowchart LR
-	subgraph TREE
-		direction TB
-		A(level 0) --> B(level 1)
-		A --> C(level 1)
-	end
-```
 ###### Left View
 ```python
 def left(root):

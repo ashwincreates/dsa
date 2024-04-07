@@ -1,7 +1,3 @@
-> [!abstract] Contents
-> - Height
-> - Diameter
-
 ##### Height
 Height of a binary tree is ==count of longest path== from the root node
 

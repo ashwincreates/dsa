@@ -1,7 +1,3 @@
-> [!abstract] **Contents**
-> - Preorder Traversal
-> - Iterative Preorder Traversal
-
 ##### Preorder Traversal
 Traversal where we access root node, left child and then right child node
 

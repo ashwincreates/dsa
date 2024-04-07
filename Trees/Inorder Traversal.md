@@ -1,7 +1,3 @@
-> [!abstract] Contents
-> - Inorder Traversal
-> - Iterative Inorder Traversal
-
 ##### Inorder Traversal
 Traversal where we access left child, root and then right child node
 

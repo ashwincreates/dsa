@@ -1,8 +1,3 @@
-> [!abstract] Contents
-> - Postorder Traversal
-> - Postorder Traversal using 2 stacks
-> - Postorder Traversal using 1 stack
-
 ##### Postorder Traversal
 Traversal where we access root node, left child and then right child node
 

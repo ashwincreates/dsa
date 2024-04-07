@@ -1,0 +1,1 @@
+A data structure consisting of nodes connected to other nodes with edges
