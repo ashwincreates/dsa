@@ -2,12 +2,11 @@
 ##### Graph
 ---
 ###### Concepts
-| Topic                      | Status   |
-| -------------------------- | -------- |
-| [[Introduction to Graphs]] | #todo🖋️ |
-| Connected Components       | #todo🖋️ |
-| BFS                        | #todo🖋️ |
-| DFS                        | #todo🖋️ |
+| Topic                      | Status |
+| -------------------------- | ------ |
+| [[Introduction to Graphs]] | #done✅ |
+| [[BFS]]                    | #done✅ |
+| [[DFS]]                    | #done✅ |
 ###### DFS and BFS problems
 | Topic                          | Status   |
 | ------------------------------ | -------- |

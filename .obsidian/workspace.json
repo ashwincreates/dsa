@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Index.md",
+                "file": "Graph/BFS.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Index.md",
+                "file": "Graph/BFS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Index.md",
+                "file": "Graph/BFS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Index.md"
+                "file": "Graph/BFS.md"
               }
             }
           },
@@ -157,6 +157,11 @@
   },
   "active": "d2789f2c0cb92b80",
   "lastOpenFiles": [
+    "Graph/DFS.md",
+    "Graph/BFS.md",
+    "Graph/Index.md",
+    "Graph/Introduction to Graphs.md",
+    "Index.md",
     "Trees/Views of Binary Tree.md",
     "Trees/Two Sum in a BST.md",
     "Trees/Symmetric Binary Tree.md",
@@ -178,11 +183,6 @@
     "Trees/LCA in a Binary Search Tree.md",
     "Trees/Largest BST in a BT.md",
     "Trees/Introduction to Trees.md",
-    "Trees/Introduction to Binary Search Trees.md",
-    "Trees/Insertion and Deletion in a BST.md",
-    "Trees/Inorder Traversal.md",
-    "Trees/Inorder Successor and Predecessor in BST.md",
-    "Trees/Index.md",
     "Trees/Flatten_Binary_Tree_to_Linked_List_image_1.png",
     "Trees/Pasted_image_20240404221007.png",
     "Graph",
