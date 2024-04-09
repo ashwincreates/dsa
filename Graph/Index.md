@@ -10,7 +10,7 @@
 ###### DFS and BFS problems
 | Topic                          | Status   |
 | ------------------------------ | -------- |
-| Number of provinces            | #todo🖋️ |
+| [[Number of provinces]]        | #todo🖋️ |
 | Connected Components in Matrix | #todo🖋️ |
 | Rotten Oranges                 | #todo🖋️ |
 | Flood Fill                     | #todo🖋️ |
