@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Graph/Number of provinces.md",
+                "file": "Graph/Index.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Graph/Number of provinces.md",
+                "file": "Graph/Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Graph/Number of provinces.md",
+                "file": "Graph/Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Graph/Number of provinces.md"
+                "file": "Graph/Index.md"
               }
             }
           },
@@ -157,9 +157,9 @@
   },
   "active": "d2789f2c0cb92b80",
   "lastOpenFiles": [
-    "Graph/Index.md",
-    "Graph/Number of provinces.md",
     "Graph/Introduction to Graphs.md",
+    "Graph/Number of provinces.md",
+    "Graph/Index.md",
     "Graph/BFS.md",
     "Graph/DFS.md",
     "Index.md",
