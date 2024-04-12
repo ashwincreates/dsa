@@ -11,9 +11,9 @@
 | Topic                      | Status   |
 | -------------------------- | -------- |
 | [[Number of provinces]]    | #done✅   |
-| Rotten Oranges             | #todo🖋️ |
-| Flood Fill                 | #todo🖋️ |
-| Cycle Detection            | #todo🖋️ |
+| [[Rotten Oranges]]         | #todo🖋️ |
+| [[Flood Fill]]             | #todo🖋️ |
+| [[Cycle Detection]]        | #todo🖋️ |
 | 01 Matrix                  | #todo🖋️ |
 | Surrounded Regions         | #todo🖋️ |
 | Number of Enclaves         | #todo🖋️ |

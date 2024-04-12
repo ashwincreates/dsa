@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Graph/Introduction to Graphs.md",
+                "file": "Graph/Cycle Detection.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Graph/Introduction to Graphs.md",
+                "file": "Graph/Cycle Detection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Graph/Introduction to Graphs.md",
+                "file": "Graph/Cycle Detection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Graph/Introduction to Graphs.md"
+                "file": "Graph/Cycle Detection.md"
               }
             }
           },
@@ -157,10 +157,13 @@
   },
   "active": "d2789f2c0cb92b80",
   "lastOpenFiles": [
+    "Graph/BFS.md",
+    "Graph/Rotten Oranges.md",
+    "Graph/Cycle Detection.md",
     "Graph/Index.md",
+    "Graph/Flood Fill.md",
     "Graph/Introduction to Graphs.md",
     "Graph/Number of provinces.md",
-    "Graph/BFS.md",
     "Graph/DFS.md",
     "Index.md",
     "Trees/Views of Binary Tree.md",
@@ -180,9 +183,6 @@
     "Trees/Maximum Width of a Binary Tree.md",
     "Trees/Maximum Path Sum.md",
     "Trees/Level Order Traversal.md",
-    "Trees/LCA in Binary Tree.md",
-    "Trees/LCA in a Binary Search Tree.md",
-    "Trees/Largest BST in a BT.md",
     "Trees/Flatten_Binary_Tree_to_Linked_List_image_1.png",
     "Trees/Pasted_image_20240404221007.png",
     "Graph",
