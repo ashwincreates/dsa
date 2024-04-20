@@ -11,11 +11,11 @@
 | Topic                      | Status   |
 | -------------------------- | -------- |
 | [[Number of provinces]]    | #done✅   |
-| [[Rotten Oranges]]         | #todo🖋️ |
-| [[Flood Fill]]             | #todo🖋️ |
-| [[Cycle Detection]]        | #todo🖋️ |
-| 01 Matrix                  | #todo🖋️ |
-| Surrounded Regions         | #todo🖋️ |
+| [[Rotten Oranges]]         | #done✅   |
+| [[Flood Fill]]             | #done✅   |
+| [[Cycle Detection]]        | #done✅   |
+| [[01 Matrix]]              | #todo🖋️ |
+| [[Surrounded Regions]]     | #todo🖋️ |
 | Number of Enclaves         | #todo🖋️ |
 | Word Ladder                | #todo🖋️ |
 | Number of distinct Islands | #todo🖋️ |
