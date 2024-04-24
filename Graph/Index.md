@@ -14,11 +14,11 @@
 | [[Rotten Oranges]]         | #done✅   |
 | [[Flood Fill]]             | #done✅   |
 | [[Cycle Detection]]        | #done✅   |
-| [[01 Matrix]]              | #todo🖋️ |
-| [[Surrounded Regions]]     | #todo🖋️ |
-| Number of Enclaves         | #todo🖋️ |
-| Word Ladder                | #todo🖋️ |
-| Number of distinct Islands | #todo🖋️ |
+| [[01 Matrix]]              | #done✅   |
+| [[Surrounded Regions]]     | #done✅   |
+| [[Number of Enclaves]]     | #done✅   |
+| [[Word Ladder]]            | #done✅   |
+| Number of distinct Islands | #done✅   |
 | Bipartite Graph            | #todo🖋️ |
 ##### Topological Sort
 | Topic                     | Status   |
