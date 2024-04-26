@@ -1,3 +1,4 @@
+##### Indirect Graph
 ###### Using BFS
 ```python    
 visited=[False] * V
@@ -42,3 +43,6 @@ for i in range(V):
         continue
     ans= ans or isCycle(i, -1, adj)
 ```
+
+##### Direct Graph
+

@@ -8,18 +8,17 @@
 | [[BFS]]                    | #done✅ |
 | [[DFS]]                    | #done✅ |
 ###### DFS and BFS problems
-| Topic                      | Status   |
-| -------------------------- | -------- |
-| [[Number of provinces]]    | #done✅   |
-| [[Rotten Oranges]]         | #done✅   |
-| [[Flood Fill]]             | #done✅   |
-| [[Cycle Detection]]        | #done✅   |
-| [[01 Matrix]]              | #done✅   |
-| [[Surrounded Regions]]     | #done✅   |
-| [[Number of Enclaves]]     | #done✅   |
-| [[Word Ladder]]            | #done✅   |
-| Number of distinct Islands | #done✅   |
-| Bipartite Graph            | #todo🖋️ |
+| Topic                   | Status  |
+| ----------------------- | ------- |
+| [[Number of provinces]] | #done✅  |
+| [[Rotten Oranges]]      | #done✅  |
+| [[Flood Fill]]          | #done✅  |
+| [[Cycle Detection]]     | #done✅  |
+| [[01 Matrix]]           | #done✅  |
+| [[Surrounded Regions]]  | #done✅  |
+| [[Number of Enclaves]]  | #done✅  |
+| [[Word Ladder]]         | #done✅  |
+| [[Bipartite Graph]]     | #done✅  |
 ##### Topological Sort
 | Topic                     | Status   |
 | ------------------------- | -------- |
