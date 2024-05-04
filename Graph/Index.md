@@ -22,7 +22,7 @@
 ##### Topological Sort
 | Topic                     | Status   |
 | ------------------------- | -------- |
-| Topological Sort          | #todo🖋️ |
+| [[Topological Sort]]      | #todo🖋️ |
 | Kahns Algorithm           | #todo🖋️ |
 | Course Schedule           | #todo🖋️ |
 | Find eventual safe states | #todo🖋️ |
