@@ -20,13 +20,12 @@
 | [[Word Ladder]]         | #done✅  |
 | [[Bipartite Graph]]     | #done✅  |
 ##### Topological Sort
-| Topic                     | Status   |
-| ------------------------- | -------- |
-| [[Topological Sort]]      | #todo🖋️ |
-| Kahns Algorithm           | #todo🖋️ |
-| Course Schedule           | #todo🖋️ |
-| Find eventual safe states | #todo🖋️ |
-| Alien dictionary          | #todo🖋️ |
+| Topic                         | Status   |
+| ----------------------------- | -------- |
+| [[Topological Sort]]          | #done✅   |
+| [[Course Schedule]]           | #done✅   |
+| [[Find eventual safe states]] | #todo🖋️ |
+| [[Alien dictionary]]          | #todo🖋️ |
 ##### Shortest Path
 | Topic                                   | Status   |
 | --------------------------------------- | -------- |

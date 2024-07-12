@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Graph/Topological Sort.md",
+                "file": "Graph/Index.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Graph/Topological Sort.md",
+                "file": "Graph/Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Graph/Topological Sort.md",
+                "file": "Graph/Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Graph/Topological Sort.md"
+                "file": "Graph/Index.md"
               }
             }
           },
@@ -157,21 +157,25 @@
   },
   "active": "d2789f2c0cb92b80",
   "lastOpenFiles": [
+    "Graph/Find eventual safe states.md",
     "Graph/Index.md",
-    "Graph/Topological Sort.md",
-    "Index.md",
-    "Graph/Cycle Detection.md",
-    "Graph/Bipartite Graph.md",
+    "Graph/Alien dictionary.md",
+    "Graph/Pasted image 20240711150421.png",
+    "Graph/Course Schedule.md",
     "Graph/01 Matrix.md",
+    "Graph/Cycle Detection.md",
+    "Graph/Flood Fill.md",
+    "Graph/DFS.md",
+    "Graph/Topological Sort.md",
     "Graph/Word Ladder.md",
+    "Index.md",
+    "Graph/Bipartite Graph.md",
     "Graph/Surrounded Regions.md",
     "Graph/Number of Enclaves.md",
     "Graph/BFS.md",
     "Graph/Rotten Oranges.md",
-    "Graph/Flood Fill.md",
     "Graph/Introduction to Graphs.md",
     "Graph/Number of provinces.md",
-    "Graph/DFS.md",
     "Trees/Views of Binary Tree.md",
     "Trees/Two Sum in a BST.md",
     "Trees/Symmetric Binary Tree.md",
@@ -180,9 +184,6 @@
     "Trees/Root to Node Path in Binary Tree.md",
     "Trees/Recover BST with two nodes swapper.md",
     "Trees/Print all Nodes at a distance of K.md",
-    "Trees/Preorder Traversal.md",
-    "Trees/Postorder Traversal.md",
-    "Trees/Postorder Preorder Inorder traversal in one Traversal.md",
     "Trees/Flatten_Binary_Tree_to_Linked_List_image_1.png",
     "Trees/Pasted_image_20240404221007.png",
     "Graph",
@@ -199,7 +200,6 @@
     "Pasted image 20240331000648.png",
     "Pasted image 20240331000703.png",
     "Ceil and Floor in a BST_image_1.png",
-    "Pasted image 20240330201248.png",
     "Find Min",
     "Excalidraw",
     "src/pages/index.astro",

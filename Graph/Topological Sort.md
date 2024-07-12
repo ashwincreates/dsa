@@ -37,7 +37,7 @@ def topologicalSort(adj, V):
     while stack:
         print(stack.pop(), end=" ")
 ```
-###### Using BFS
+###### Using BFS (Kahn's Algorithm)
 ```python
 def topologicalSort(V, adj):
         # Create a list to store in-degree of all vertices
