@@ -29,8 +29,8 @@
 ##### Shortest Path
 | Topic                                   | Status   |
 | --------------------------------------- | -------- |
-| Shortest Path in UG and DAG             | #todo🖋️ |
-| Djisktras Algorithm                     | #todo🖋️ |
+| [[Shortest Path in UG and DAG]]         | #done✅   |
+| [[Djisktras Algorithm]]                 | #todo🖋️ |
 | Shortest Path in binary maze            | #todo🖋️ |
 | Path with minimum effort                | #todo🖋️ |
 | Cheapest flight with k stops            | #todo🖋️ |
