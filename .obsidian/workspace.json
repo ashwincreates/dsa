@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d2789f2c0cb92b80",
+            "id": "c0336412bb174ea7",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "c0336412bb174ea7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Graph/Djisktras Algorithm.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Graph/Djisktras Algorithm.md",
+                "file": "Graph/Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Graph/Djisktras Algorithm.md",
+                "file": "Graph/Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Graph/Djisktras Algorithm.md"
+                "file": "Graph/Index.md"
               }
             }
           },
@@ -170,9 +157,12 @@
   },
   "active": "c0336412bb174ea7",
   "lastOpenFiles": [
-    "Graph/Index.md",
-    "Graph/Djisktras Algorithm.md",
     "Graph/Shortest Path in UG and DAG.md",
+    "Graph/Index.md",
+    "Graph/Path with minimum effort.md",
+    "Graph/Djisktras Algorithm.md",
+    "Graph/Shortest Path in binary maze.md",
+    "Graph/BFS.md",
     "Graph/Find eventual safe states.md",
     "Graph/Alien dictionary.md",
     "Graph/Pasted image 20240711150421.png",
@@ -187,7 +177,6 @@
     "Graph/Bipartite Graph.md",
     "Graph/Surrounded Regions.md",
     "Graph/Number of Enclaves.md",
-    "Graph/BFS.md",
     "Graph/Rotten Oranges.md",
     "Graph/Introduction to Graphs.md",
     "Graph/Number of provinces.md",
@@ -195,8 +184,6 @@
     "Trees/Two Sum in a BST.md",
     "Trees/Symmetric Binary Tree.md",
     "Trees/Serialize and Deserialize Binary Tree.md",
-    "Trees/Search in a Binary Search Tree.md",
-    "Trees/Root to Node Path in Binary Tree.md",
     "Trees/Flatten_Binary_Tree_to_Linked_List_image_1.png",
     "Trees/Pasted_image_20240404221007.png",
     "Graph",
