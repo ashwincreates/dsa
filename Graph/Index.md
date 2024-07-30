@@ -34,7 +34,7 @@
 | [[Shortest Path in binary maze]]        | #done✅   |
 | [[Path with minimum effort]]            | #done✅   |
 | Cheapest flight with k stops            | #todo🖋️ |
-| Network delay time                      | #todo🖋️ |
+| [[Network delay time]]                  | #todo🖋️ |
 | Number of ways to arrive at destination | #todo🖋️ |
 | Minimum step to calculate               | #todo🖋️ |
 | Bellman Ford Algorithms                 | #todo🖋️ |
