@@ -27,19 +27,19 @@
 | [[Find eventual safe states]] | #todo🖋️ |
 | [[Alien dictionary]]          | #todo🖋️ |
 ##### Shortest Path
-| Topic                                   | Status   |
-| --------------------------------------- | -------- |
-| [[Shortest Path in UG and DAG]]         | #done✅   |
-| [[Djisktras Algorithm]]                 | #done✅   |
-| [[Shortest Path in binary maze]]        | #done✅   |
-| [[Path with minimum effort]]            | #done✅   |
-| Cheapest flight with k stops            | #todo🖋️ |
-| [[Network delay time]]                  | #todo🖋️ |
-| Number of ways to arrive at destination | #todo🖋️ |
-| Minimum step to calculate               | #todo🖋️ |
-| Bellman Ford Algorithms                 | #todo🖋️ |
-| Floyd Algorithms                        | #todo🖋️ |
-| Find city with smallest neighbour       | #todo🖋️ |
+| Topic                                       | Status   |
+| ------------------------------------------- | -------- |
+| [[Shortest Path in UG and DAG]]             | #done✅   |
+| [[Djisktras Algorithm]]                     | #done✅   |
+| [[Shortest Path in binary maze]]            | #done✅   |
+| [[Path with minimum effort]]                | #done✅   |
+| Cheapest flight with k stops                | #todo🖋️ |
+| [[Network delay time]]                      | #todo🖋️ |
+| [[Number of ways to arrive at destination]] | #todo🖋️ |
+| [[Minimum step to calculate]]               | #todo🖋️ |
+| Bellman Ford Algorithms                     | #todo🖋️ |
+| Floyd Algorithms                            | #todo🖋️ |
+| Find city with smallest neighbour           | #todo🖋️ |
 ##### Minimum Spanning Tree
 | Topic                  | Status   |
 | ---------------------- | -------- |
