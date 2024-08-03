@@ -7,4 +7,4 @@ jobs:
     runs-on: 'ubuntu-latest'
     steps:
       - name: Trigger webhook
-        run: curl -X POST 'https://api.cloudflare.com/client/v4/pages/webhooks/deploy_hooks/f90cf8a7-5d65-49f0-b2c4-6c9850220924' 
+        run: curl -X POST 'https://api.vercel.com/v1/integrations/deploy/prj_rL0Oc4TkGxVAYnqsMzsoRP040LM7/AyZwLTfuRY' 
