@@ -20,12 +20,12 @@
 | [[Word Ladder]]         | #done✅  |
 | [[Bipartite Graph]]     | #done✅  |
 ##### Topological Sort
-| Topic                         | Status   |
-| ----------------------------- | -------- |
-| [[Topological Sort]]          | #done✅   |
-| [[Course Schedule]]           | #done✅   |
-| [[Find eventual safe states]] | #todo🖋️ |
-| [[Alien dictionary]]          | #todo🖋️ |
+| Topic                         | Status  |
+| ----------------------------- | ------- |
+| [[Topological Sort]]          | #done✅  |
+| [[Course Schedule]]           | #done✅  |
+| [[Find eventual safe states]] | #done✅  |
+| [[Alien dictionary]]          | #done✅  |
 ##### Shortest Path
 | Topic                                       | Status   |
 | ------------------------------------------- | -------- |
@@ -34,9 +34,9 @@
 | [[Shortest Path in binary maze]]            | #done✅   |
 | [[Path with minimum effort]]                | #done✅   |
 | Cheapest flight with k stops                | #todo🖋️ |
-| [[Network delay time]]                      | #todo🖋️ |
-| [[Number of ways to arrive at destination]] | #todo🖋️ |
-| [[Minimum step to calculate]]               | #todo🖋️ |
+| [[Network delay time]]                      | #done✅   |
+| [[Number of ways to arrive at destination]] | #done✅   |
+| [[Minimum step to calculate]]               | #done✅   |
 | Bellman Ford Algorithms                     | #todo🖋️ |
 | Floyd Algorithms                            | #todo🖋️ |
 | Find city with smallest neighbour           | #todo🖋️ |

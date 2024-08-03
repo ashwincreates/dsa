@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Graph/Minimum step to calculate.md",
+                "file": "Graph/Index.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Graph/Minimum step to calculate.md",
+                "file": "Graph/Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Graph/Minimum step to calculate.md",
+                "file": "Graph/Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Graph/Minimum step to calculate.md"
+                "file": "Graph/Index.md"
               }
             }
           },
@@ -155,19 +155,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d2789f2c0cb92b80",
+  "active": "1bb0ad2b00f943d5",
   "lastOpenFiles": [
+    "Graph/Alien dictionary.md",
     "Graph/Index.md",
+    "Graph/Find eventual safe states.md",
+    "Index.md",
     "Graph/Minimum step to calculate.md",
     "Graph/Number of ways to arrive at destination.md",
     "Graph/Network delay time.md",
     "Graph/Shortest Path in binary maze.md",
     "Graph/Path with minimum effort.md",
-    "Index.md",
     "Graph/Djisktras Algorithm.md",
     "Graph/Shortest Path in UG and DAG.md",
-    "Graph/Find eventual safe states.md",
-    "Graph/Alien dictionary.md",
     "Graph/Pasted image 20240711150421.png",
     "Graph/Course Schedule.md",
     "Graph/01 Matrix.md",
