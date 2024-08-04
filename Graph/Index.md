@@ -37,8 +37,8 @@
 | [[Network delay time]]                      | #done✅   |
 | [[Number of ways to arrive at destination]] | #done✅   |
 | [[Minimum step to calculate]]               | #done✅   |
-| Bellman Ford Algorithms                     | #todo🖋️ |
-| Floyd Algorithms                            | #todo🖋️ |
+| [[Bellman Ford Algorithms]]                 | #todo🖋️ |
+| [[Floyd Algorithms]]                        | #todo🖋️ |
 | Find city with smallest neighbour           | #todo🖋️ |
 ##### Minimum Spanning Tree
 | Topic                  | Status   |
