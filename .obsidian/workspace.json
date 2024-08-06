@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Graph/Bellman Ford Algorithms.md",
+                "file": "Graph/Floyd Algorithms.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Graph/Bellman Ford Algorithms.md",
+                "file": "Graph/Floyd Algorithms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Graph/Bellman Ford Algorithms.md",
+                "file": "Graph/Floyd Algorithms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Graph/Bellman Ford Algorithms.md"
+                "file": "Graph/Floyd Algorithms.md"
               }
             }
           },
@@ -158,6 +158,7 @@
   "active": "d2789f2c0cb92b80",
   "lastOpenFiles": [
     "Graph/Index.md",
+    "Graph/Floyd Algorithms.md",
     "Graph/Bellman Ford Algorithms.md",
     "Graph/Djisktras Algorithm.md",
     "Graph/Path with minimum effort.md",
@@ -183,7 +184,6 @@
     "Graph/BFS.md",
     "Graph/Rotten Oranges.md",
     "Graph/Introduction to Graphs.md",
-    "Graph/Number of provinces.md",
     "Trees/Flatten_Binary_Tree_to_Linked_List_image_1.png",
     "Trees/Pasted_image_20240404221007.png",
     "Graph",
