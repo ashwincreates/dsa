@@ -12,8 +12,7 @@ def networkDelayTime(self, times: List[List[int]], n: int, k: int) -> int:
     while minheap:  
         w1, u = heappop(minheap)
         for node in adj[u]:
-            w2, v = node  
-            newDist = w1 + w2  
+            w2, v = node 
             if dist[v] > dist[u] + w2: 
                 dist[v] = dist[u] + w2   
                 heappush(minheap, (dist[v], v))

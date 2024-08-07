@@ -37,22 +37,22 @@
 | [[Network delay time]]                      | #done✅   |
 | [[Number of ways to arrive at destination]] | #done✅   |
 | [[Minimum step to calculate]]               | #done✅   |
-| [[Bellman Ford Algorithms]]                 | #todo🖋️ |
-| [[Floyd Algorithms]]                        | #todo🖋️ |
-| Find city with smallest neighbour           | #todo🖋️ |
+| [[Bellman Ford Algorithms]]                 | #done✅   |
+| [[Floyd Algorithms]]                        | #done✅   |
+| [[Find city with smallest neighbour]]       | #done✅   |
 ##### Minimum Spanning Tree
-| Topic                  | Status   |
-| ---------------------- | -------- |
-| Minimum Spanning Tree  | #todo🖋️ |
-| Prims Algorithms       | #todo🖋️ |
-| Disjoint Set           | #todo🖋️ |
-| Kruskals Algorithm     | #todo🖋️ |
-| Make network connected | #todo🖋️ |
-| Most stones removed    | #todo🖋️ |
-| Accounts merge         | #todo🖋️ |
-| Number of Island 2     | #todo🖋️ |
-| Marking a Island Large | #todo🖋️ |
-| Swim in rising water   | #todo🖋️ |
+| Topic                     | Status   |
+| ------------------------- | -------- |
+| [[Minimum Spanning Tree]] | #done✅   |
+| [[Prims Algorithms]]      | #done✅   |
+| [[Disjoint Set]]          | #note📃  |
+| Kruskals Algorithm        | #todo🖋️ |
+| Make network connected    | #todo🖋️ |
+| Most stones removed       | #todo🖋️ |
+| Accounts merge            | #todo🖋️ |
+| Number of Island 2        | #todo🖋️ |
+| Marking a Island Large    | #todo🖋️ |
+| Swim in rising water      | #todo🖋️ |
 ##### Other Topics
 | Topic               | Status    |
 | ------------------- | --------- |

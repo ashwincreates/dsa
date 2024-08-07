@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Graph/Floyd Algorithms.md",
+                "file": "Graph/Index.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Graph/Floyd Algorithms.md",
+                "file": "Graph/Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Graph/Floyd Algorithms.md",
+                "file": "Graph/Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Graph/Floyd Algorithms.md"
+                "file": "Graph/Index.md"
               }
             }
           },
@@ -157,13 +157,17 @@
   },
   "active": "d2789f2c0cb92b80",
   "lastOpenFiles": [
+    "Graph/Disjoint Set.md",
     "Graph/Index.md",
+    "Graph/Minimum Spanning Tree.md",
+    "Graph/Prims Algorithms.md",
+    "Graph/Djisktras Algorithm.md",
+    "Graph/Network delay time.md",
+    "Graph/Find city with smallest neighbour.md",
     "Graph/Floyd Algorithms.md",
     "Graph/Bellman Ford Algorithms.md",
-    "Graph/Djisktras Algorithm.md",
     "Graph/Path with minimum effort.md",
     "Graph/Shortest Path in binary maze.md",
-    "Graph/Network delay time.md",
     "Graph/Minimum step to calculate.md",
     "Graph/Alien dictionary.md",
     "Graph/Find eventual safe states.md",
@@ -180,10 +184,6 @@
     "Graph/Word Ladder.md",
     "Graph/Bipartite Graph.md",
     "Graph/Surrounded Regions.md",
-    "Graph/Number of Enclaves.md",
-    "Graph/BFS.md",
-    "Graph/Rotten Oranges.md",
-    "Graph/Introduction to Graphs.md",
     "Trees/Flatten_Binary_Tree_to_Linked_List_image_1.png",
     "Trees/Pasted_image_20240404221007.png",
     "Graph",
