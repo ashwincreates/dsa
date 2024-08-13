@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Graph/Index.md",
+                "file": "Graph/Kruskals Algorithm.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Graph/Index.md",
+                "file": "Graph/Kruskals Algorithm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Graph/Index.md",
+                "file": "Graph/Kruskals Algorithm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Graph/Index.md"
+                "file": "Graph/Kruskals Algorithm.md"
               }
             }
           },
@@ -157,8 +157,10 @@
   },
   "active": "d2789f2c0cb92b80",
   "lastOpenFiles": [
-    "Graph/Disjoint Set.md",
     "Graph/Index.md",
+    "Graph/Make network connected.md",
+    "Graph/Kruskals Algorithm.md",
+    "Graph/Disjoint Set.md",
     "Graph/Minimum Spanning Tree.md",
     "Graph/Prims Algorithms.md",
     "Graph/Djisktras Algorithm.md",
@@ -182,8 +184,6 @@
     "Graph/DFS.md",
     "Graph/Topological Sort.md",
     "Graph/Word Ladder.md",
-    "Graph/Bipartite Graph.md",
-    "Graph/Surrounded Regions.md",
     "Trees/Flatten_Binary_Tree_to_Linked_List_image_1.png",
     "Trees/Pasted_image_20240404221007.png",
     "Graph",
