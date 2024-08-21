@@ -49,10 +49,10 @@
 | [[Kruskals Algorithm]]     | #done✅   |
 | [[Make network connected]] | #done✅   |
 | Most stones removed        | #todo🖋️ |
-| [[Accounts merge]]         | #todo🖋️ |
-| [[Number of Island 2]]     | #todo🖋️ |
-| [[Making a Island Large]]  | #todo🖋️ |
-| [[Swim in rising water]]   | #todo🖋️ |
+| [[Accounts merge]]         | #done✅   |
+| [[Number of Island 2]]     | #done✅   |
+| [[Making a Island Large]]  | #done✅   |
+| [[Swim in rising water]]   | #done✅   |
 ##### Other Topics
 | Topic               | Status    |
 | ------------------- | --------- |
