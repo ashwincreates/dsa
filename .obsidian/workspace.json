@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Graph/Kruskals Algorithm.md",
+                "file": "Graph/Swim in rising water.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Graph/Kruskals Algorithm.md",
+                "file": "Graph/Swim in rising water.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Graph/Kruskals Algorithm.md",
+                "file": "Graph/Swim in rising water.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Graph/Kruskals Algorithm.md"
+                "file": "Graph/Swim in rising water.md"
               }
             }
           },
@@ -158,6 +158,10 @@
   "active": "d2789f2c0cb92b80",
   "lastOpenFiles": [
     "Graph/Index.md",
+    "Graph/Swim in rising water.md",
+    "Graph/Making a Island Large.md",
+    "Graph/Number of Island 2.md",
+    "Graph/Accounts merge.md",
     "Graph/Make network connected.md",
     "Graph/Kruskals Algorithm.md",
     "Graph/Disjoint Set.md",
@@ -180,10 +184,6 @@
     "Graph/Course Schedule.md",
     "Graph/01 Matrix.md",
     "Graph/Cycle Detection.md",
-    "Graph/Flood Fill.md",
-    "Graph/DFS.md",
-    "Graph/Topological Sort.md",
-    "Graph/Word Ladder.md",
     "Trees/Flatten_Binary_Tree_to_Linked_List_image_1.png",
     "Trees/Pasted_image_20240404221007.png",
     "Graph",

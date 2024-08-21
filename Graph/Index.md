@@ -20,12 +20,12 @@
 | [[Word Ladder]]         | #done✅  |
 | [[Bipartite Graph]]     | #done✅  |
 ##### Topological Sort
-| Topic                         | Status  |
-| ----------------------------- | ------- |
-| [[Topological Sort]]          | #done✅  |
-| [[Course Schedule]]           | #done✅  |
-| [[Find eventual safe states]] | #done✅  |
-| [[Alien dictionary]]          | #done✅  |
+| Topic                         | Status |
+| ----------------------------- | ------ |
+| [[Topological Sort]]          | #done✅ |
+| [[Course Schedule]]           | #done✅ |
+| [[Find eventual safe states]] | #done✅ |
+| [[Alien dictionary]]          | #done✅ |
 ##### Shortest Path
 | Topic                                       | Status   |
 | ------------------------------------------- | -------- |
@@ -47,12 +47,12 @@
 | [[Prims Algorithms]]       | #done✅   |
 | [[Disjoint Set]]           | #done✅   |
 | [[Kruskals Algorithm]]     | #done✅   |
-| [[Make network connected]] | #todo🖋️ |
+| [[Make network connected]] | #done✅   |
 | Most stones removed        | #todo🖋️ |
-| Accounts merge             | #todo🖋️ |
-| Number of Island 2         | #todo🖋️ |
-| Marking a Island Large     | #todo🖋️ |
-| Swim in rising water       | #todo🖋️ |
+| [[Accounts merge]]         | #todo🖋️ |
+| [[Number of Island 2]]     | #todo🖋️ |
+| [[Making a Island Large]]  | #todo🖋️ |
+| [[Swim in rising water]]   | #todo🖋️ |
 ##### Other Topics
 | Topic               | Status    |
 | ------------------- | --------- |
