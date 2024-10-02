@@ -4,7 +4,7 @@
 ###### 1-D DP
 | Topic                                | Status   |
 | ------------------------------------ | -------- |
-| Climbing Stairs                      | #todo🖋️ |
+| [[Climbing Stairs]]                  | #todo🖋️ |
 | Frog Jump                            | #todo🖋️ |
 | Frog Jump with K distances           | #todo🖋️ |
 | Maximum sum of non-adjacent elements | #todo🖋️ |

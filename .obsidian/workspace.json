@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DP/Index.md",
+                "file": "DP/Climbing Stairs.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DP/Index.md",
+                "file": "DP/Climbing Stairs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DP/Index.md",
+                "file": "DP/Climbing Stairs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DP/Index.md"
+                "file": "DP/Climbing Stairs.md"
               }
             }
           },
@@ -157,8 +157,9 @@
   },
   "active": "e11620f34b8ae9e9",
   "lastOpenFiles": [
-    "Graph/Index.md",
     "DP/Index.md",
+    "DP/Climbing Stairs.md",
+    "Graph/Index.md",
     "Graph/Bridges in graph.md",
     "DP",
     "Graph/Articulation points.md",
@@ -183,7 +184,6 @@
     "Graph/Minimum step to calculate.md",
     "Graph/Alien dictionary.md",
     "Graph/Find eventual safe states.md",
-    "Index.md",
     "Graph/Pasted image 20240711150421.png",
     "Trees/Flatten_Binary_Tree_to_Linked_List_image_1.png",
     "Trees/Pasted_image_20240404221007.png",
