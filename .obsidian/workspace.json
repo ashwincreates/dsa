@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ec8851df757154c2",
+        "id": "7476c597eda6ef62",
         "type": "tabs",
         "children": [
           {
-            "id": "d2789f2c0cb92b80",
+            "id": "e11620f34b8ae9e9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Graph/Index.md",
+                "file": "DP/Index.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 256.5
   },
   "right": {
     "id": "da45610ff444d758",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Graph/Index.md",
+                "file": "DP/Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Graph/Index.md",
+                "file": "DP/Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Graph/Index.md"
+                "file": "DP/Index.md"
               }
             }
           },
@@ -155,10 +155,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d2789f2c0cb92b80",
+  "active": "e11620f34b8ae9e9",
   "lastOpenFiles": [
-    "Graph/Swim in rising water.md",
     "Graph/Index.md",
+    "DP/Index.md",
+    "Graph/Bridges in graph.md",
+    "DP",
+    "Graph/Articulation points.md",
+    "Trees/Height and Diameter of a Binary Tree.md",
+    "Trees/Index.md",
+    "Graph/Swim in rising water.md",
     "Graph/Making a Island Large.md",
     "Graph/Number of Island 2.md",
     "Graph/Accounts merge.md",
@@ -178,12 +184,7 @@
     "Graph/Alien dictionary.md",
     "Graph/Find eventual safe states.md",
     "Index.md",
-    "Graph/Number of ways to arrive at destination.md",
-    "Graph/Shortest Path in UG and DAG.md",
     "Graph/Pasted image 20240711150421.png",
-    "Graph/Course Schedule.md",
-    "Graph/01 Matrix.md",
-    "Graph/Cycle Detection.md",
     "Trees/Flatten_Binary_Tree_to_Linked_List_image_1.png",
     "Trees/Pasted_image_20240404221007.png",
     "Graph",
@@ -202,7 +203,6 @@
     "Ceil and Floor in a BST_image_1.png",
     "Find Min",
     "Excalidraw",
-    "src/pages/index.astro",
     "Untitled.canvas"
   ]
 }

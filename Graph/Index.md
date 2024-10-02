@@ -54,8 +54,8 @@
 | [[Making a Island Large]]  | #done✅   |
 | [[Swim in rising water]]   | #done✅   |
 ##### Other Topics
-| Topic               | Status    |
-| ------------------- | --------- |
-| Bridges in graph    | #todo🖋️  |
-| Articulation points | #todo🖋️  |
-| Kosarajus Algorithm | #todo🖋️  |
+| Topic                   | Status   |
+| ----------------------- | -------- |
+| [[Bridges in graph]]    | #todo🖋️ |
+| [[Articulation points]] | #todo🖋️ |
+| Kosarajus Algorithm     | #todo🖋️ |

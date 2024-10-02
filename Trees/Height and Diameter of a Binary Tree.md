@@ -1,4 +1,4 @@
-##### Height
+.##### Height
 Height of a binary tree is ==count of longest path== from the root node
 
 ```python
