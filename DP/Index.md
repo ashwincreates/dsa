@@ -2,13 +2,13 @@
 ##### DP
 ---
 ###### 1-D DP
-| Topic                                | Status   |
-| ------------------------------------ | -------- |
-| [[Climbing Stairs]]                  | #todo🖋️ |
-| [[Frog Jump]]                        | #todo🖋️ |
-| [[Frog Jump with K distances]]       | #todo🖋️ |
-| Maximum sum of non-adjacent elements | #todo🖋️ |
-| House Robber                         | #todo🖋️ |
+| Topic                                    | Status   |
+| ---------------------------------------- | -------- |
+| [[Climbing Stairs]]                      | #done✅   |
+| [[Frog Jump]]                            | #done✅   |
+| [[Frog Jump with K distances]]           | #done✅   |
+| [[Maximum sum of non-adjacent elements]] | #todo🖋️ |
+| [[House Robber]]                         | #todo🖋️ |
 ###### 2D/3D DP
 | Topic                            | Status   |
 | -------------------------------- | -------- |
