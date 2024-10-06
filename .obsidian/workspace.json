@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DP/Climbing Stairs.md",
+                "file": "DP/Frog Jump with K distances.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 256.5
+    "width": 256.5,
+    "collapsed": true
   },
   "right": {
     "id": "da45610ff444d758",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DP/Climbing Stairs.md",
+                "file": "DP/Frog Jump with K distances.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DP/Climbing Stairs.md",
+                "file": "DP/Frog Jump with K distances.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DP/Climbing Stairs.md"
+                "file": "DP/Frog Jump with K distances.md"
               }
             }
           },
@@ -157,8 +158,10 @@
   },
   "active": "e11620f34b8ae9e9",
   "lastOpenFiles": [
-    "DP/Index.md",
     "DP/Climbing Stairs.md",
+    "DP/Frog Jump.md",
+    "DP/Frog Jump with K distances.md",
+    "DP/Index.md",
     "Graph/Index.md",
     "Graph/Bridges in graph.md",
     "DP",
@@ -182,8 +185,6 @@
     "Graph/Path with minimum effort.md",
     "Graph/Shortest Path in binary maze.md",
     "Graph/Minimum step to calculate.md",
-    "Graph/Alien dictionary.md",
-    "Graph/Find eventual safe states.md",
     "Graph/Pasted image 20240711150421.png",
     "Trees/Flatten_Binary_Tree_to_Linked_List_image_1.png",
     "Trees/Pasted_image_20240404221007.png",

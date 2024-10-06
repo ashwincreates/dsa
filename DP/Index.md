@@ -5,8 +5,8 @@
 | Topic                                | Status   |
 | ------------------------------------ | -------- |
 | [[Climbing Stairs]]                  | #todo🖋️ |
-| Frog Jump                            | #todo🖋️ |
-| Frog Jump with K distances           | #todo🖋️ |
+| [[Frog Jump]]                        | #todo🖋️ |
+| [[Frog Jump with K distances]]       | #todo🖋️ |
 | Maximum sum of non-adjacent elements | #todo🖋️ |
 | House Robber                         | #todo🖋️ |
 ###### 2D/3D DP

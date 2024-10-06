@@ -2,7 +2,7 @@ You are climbing a staircase. It takes `n` steps to reach the top.
 
 Each time you can either climb `1` or `2` steps. In how many distinct ways can you climb to the top?
 
-###### Bottom Up Approach
+##### Top Down Approach
 We use recursion and keep breaking the problem in smaller cases until we reach the base case and then we calculate the answer bottom up, in different questions the way we calculate answer differs
 ```python
 class Solution:
@@ -20,7 +20,7 @@ class Solution:
         return climb(n)
 ```
 
-###### Top Down Approach
+##### Bottom Down Approach
 We use top down approach where we declare the base case and solve for every possible state
 ```python
 class Solution:
