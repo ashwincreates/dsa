@@ -1,14 +1,14 @@
-> Dynamic Programming  
+> Dynamic Programming  📈
 ##### DP
 ---
 ###### 1-D DP
-| Topic                                    | Status   |
-| ---------------------------------------- | -------- |
-| [[Climbing Stairs]]                      | #done✅   |
-| [[Frog Jump]]                            | #done✅   |
-| [[Frog Jump with K distances]]           | #done✅   |
-| [[Maximum sum of non-adjacent elements]] | #todo🖋️ |
-| [[House Robber]]                         | #todo🖋️ |
+| Topic                                    | Status |
+| ---------------------------------------- | ------ |
+| [[Climbing Stairs]]                      | #done✅ |
+| [[Frog Jump]]                            | #done✅ |
+| [[Frog Jump with K distances]]           | #done✅ |
+| [[Maximum sum of non-adjacent elements]] | #done✅ |
+| [[House Robber]]                         | #done✅ |
 ###### 2D/3D DP
 | Topic                            | Status   |
 | -------------------------------- | -------- |
