@@ -2,8 +2,8 @@
 
 | Questions                                                          | Status   |
 | ------------------------------------------------------------------ | -------- |
-| [[Find the Union]]                                                 | #todo🖋️ |
-| [[Find the number that appears once and others twice]]             | #todo🖋️ |
+| [[Find the Union]]                                                 | #done✅   |
+| [[Find the number that appears once and others twice]]             | #done✅   |
 | [[Longest subarray with given sum K]]                              | #todo🖋️ |
 | [[2 Sum problem]]                                                  | #todo🖋️ |
 | [[Sort an array or 0's 1's 2's]]                                   | #todo🖋️ |
