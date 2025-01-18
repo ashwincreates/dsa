@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Array/Index.md",
+                "file": "Array/2 Sum problem.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Index"
+              "title": "2 Sum problem"
             }
           }
         ]
@@ -171,8 +171,12 @@
   },
   "active": "86d89d9cce0a4f3e",
   "lastOpenFiles": [
-    "Array/Find the number that appears once and others twice.md",
     "Array/Index.md",
+    "Array/Longest subarray with given sum K.md",
+    "Array/2 Sum problem.md",
+    "Graph/Index.md",
+    "Graph/Topological Sort.md",
+    "Array/Find the number that appears once and others twice.md",
     "Array/Find the Union.md",
     "Array/Maximum Product Subarray.md",
     "Array/Reverse Pairs.md",
@@ -193,10 +197,6 @@
     "Array/Leaders in an array problem.md",
     "Array/Next Permutation.md",
     "Array/Rearrange the array in alternating positive and negative items.md",
-    "Array/Stock Buy and Sell.md",
-    "Array/Print subarray with maximum subarray sum.md",
-    "Array/Kadanes Algorithm.md",
-    "Array/Majority Element.md",
     "Array",
     "Trees/image_20240331000808.png",
     "Trees/image_1_20240330235536.png",

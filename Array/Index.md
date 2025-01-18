@@ -4,7 +4,7 @@
 | ------------------------------------------------------------------ | -------- |
 | [[Find the Union]]                                                 | #done✅   |
 | [[Find the number that appears once and others twice]]             | #done✅   |
-| [[Longest subarray with given sum K]]                              | #todo🖋️ |
+| [[Longest subarray with given sum K]]                              | #done✅   |
 | [[2 Sum problem]]                                                  | #todo🖋️ |
 | [[Sort an array or 0's 1's 2's]]                                   | #todo🖋️ |
 | [[Majority Element]]                                               | #todo🖋️ |

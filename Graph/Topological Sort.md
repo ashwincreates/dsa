@@ -20,7 +20,7 @@ def topologicalSort(adj, V):
         # Recur for all adjacent vertices
         for i in adj[v]:
             if not visited[i]:
-                topologicalSortUtil(i, adj, visited, stack)
+                helper(i, adj)
     
         # Push current vertex to stack which stores the result
         stack.append(v)
